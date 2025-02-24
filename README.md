@@ -6,13 +6,10 @@ For: lingusitics, psycholingusitics, computational linguistics, education.
 
 ## Overview
 
-Datasets from == psycholinguistics ==
+---  
+Datasets from psycholinguistics
 
-   <fo nt style color="red">This text is red!</fo nt>
-<p>
- <text style="color: red">ERROR</text>
-</p>
-$\color{#FF0000}{like~this!}$
+[comment]: <> (This is a comment, it will not be included)
 
 - **PANIG**  
    **Article:** Citron, F.M.M., Cacciari, V., Kucharski, M., Beck, L., Conrad M,, & Jacobs, A.M. (2016). When emotions are expressed figuratively: Psycholinguistic and Affective Norms of 619 Idioms for German.[Behavior Research Methods, 48, 91–111.](https://link.springer.com/article/10.3758/s13428-015-0581-4)
