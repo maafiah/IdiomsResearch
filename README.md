@@ -7,24 +7,15 @@ For: lingusitics, psycholingusitics, computational linguistics, education.
 ## Overview
 A repository of data and links for reserach on idiomatic expressions  
 
-[Link Text](#Data-sets-from-psycholinguistics)
-dddddddddd
+[Psycling data](#psycling)  [Compling data](#compling)
 
-Some body text of this section.
+<!-- This is a comment, it will not be included -->
 
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
-
-(… more content…)
-
-[Psycling](#psycling)  [Compling](#compling)
-(… more content…)
 
 ---  
 ## Data sets from psycholinguistics
 <a name="psycling"></a>Such data sets typically include normed ratings of idioms on various dimemsions. 
 
-[comment]: <> (This is a comment, it will not be included)
 
 - **Libben&Titone2008**  
    **Article:** Libben, M.R. &Titone, D.A. (2008).The multidetermined nature of idiom processing. [Memory & Cognition, 36, 1103–1121.](https://link.springer.com/article/10.3758/MC.36.6.1103)  
@@ -72,8 +63,15 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Dimensions annotated:** subjective frequency, ambiguity, and decomposability  \
    **Number of idioms:** 400
 
+- **Spanish** 
+   **Article:** Gavilán, J.M., Haro, J., Hinojosa, J.A., Fraga, I., & Ferré, P. (2021). Psycholinguistic and affective norms for 1,252 Spanish idiomatic expressions. [PLoS ONE 16(7):e0254484](https://doi.org/10.1371/journal.pone.0254484).   
+   **Data:** Available in the article suppemental material an also at [OSF repository](https://osf.io/p75c3/).  
+   **Languages of data:** Spanish   
+   **Dimensions annotated:** familiarity, knowledge, decomposability, literality, predictability, valence and arousal.   
+   **Number of idioms:** 1252.
+
 - **ChileanSpanish**  
-   **Article:** Góngora, B., Gómez-Lombardi, A. & Ortega González, A. (202w). Descriptive Norms for 1,082 Chilean-Spanish Idiomatic Expressions. [Revista signos, 55(110):1057-1076](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-09342022000301057). Also pfd file on [ResearchGate](https://www.researchgate.net/publication/367081454_Descriptive_Norms_for_1082_Chilean-Spanish_Idiomatic_Expressions) or [Academia.edu](https://www.academia.edu/124252404/Descriptive_Norms_for_1_082_Chilean_Spanish_Idiomatic_Expressions?nav_from=2bda8401-77ae-4976-b17a-aa12c2533c51).   
+   **Article:** Góngora, B., Gómez-Lombardi, A. & Ortega González, A. (2022). Descriptive Norms for 1,082 Chilean-Spanish Idiomatic Expressions. [Revista signos, 55(110):1057-1076](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-09342022000301057). Also pfd file on [ResearchGate](https://www.researchgate.net/publication/367081454_Descriptive_Norms_for_1082_Chilean-Spanish_Idiomatic_Expressions) or [Academia.edu](https://www.academia.edu/124252404/Descriptive_Norms_for_1_082_Chilean_Spanish_Idiomatic_Expressions?nav_from=2bda8401-77ae-4976-b17a-aa12c2533c51).   
    **Data:** ???  
    **Languages of data:** Chilean Spanish   
    **Dimensions annotated:** familiarity, ambiguity, compositionality, transparency.   
