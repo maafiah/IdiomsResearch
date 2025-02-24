@@ -41,6 +41,13 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Dimensions annotated:** knowledge, familiarity, subjective and objective frequency, AoA, predictability, literality, compositionality, and length   
    **Number of idioms:** 305
 
+- **Bonin.et.al.2018**  
+   **Article:** Bonin, P., Méot, A., Boucheix, J.-M., & Bugaiska, A.  (2018). Psycholinguistic norms for 320 fixed expressions (idioms and proverbs) in French. [Quarterly Journal of Experimental Psychology, 71(5), 1057-1069](https://doi.org/10.1080/17470218.2017.1310269).   
+   **Data:** Data is available as supplemental material to the article. Direct links: [instructions](https://journals.sagepub.com/doi/suppl/10.1080/17470218.2017.1310269/suppl_file/qje-std_16-427.r1-supplemental_material_a-rating_instructions.docx), [data in xls file](https://journals.sagepub.com/doi/suppl/10.1080/17470218.2017.1310269/suppl_file/qje-std_16-427.r1-supplemental_material_b.xls), [code docx file](https://journals.sagepub.com/doi/suppl/10.1080/17470218.2017.1310269/suppl_file/qje-std_16-427.r1-supplemental_material_c.docx).    
+   **Languages of data:** French   
+   **Dimensions annotated:** knowledge, predictability, literality, compositionality, subjective and objective frequency, familiarity, age of acquisition (AoA) and length.   
+   **Number of idioms:** 160 idioms and 160 proverbs.
+
 - **PANIG**  
    **Article:** Citron, F.M.M., Cacciari, V., Kucharski, M., Beck, L., Conrad M., & Jacobs, A.M. (2016). When emotions are expressed figuratively: Psycholinguistic and Affective Norms of 619 Idioms for German. [Behavior Research Methods, 48, 91–111](https://link.springer.com/article/10.3758/s13428-015-0581-4). \
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
@@ -63,7 +70,7 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Dimensions annotated:** subjective frequency, ambiguity, and decomposability  \
    **Number of idioms:** 400
 
-- **Spanish** 
+- **Gavilán.et.al.2021**  
    **Article:** Gavilán, J.M., Haro, J., Hinojosa, J.A., Fraga, I., & Ferré, P. (2021). Psycholinguistic and affective norms for 1,252 Spanish idiomatic expressions. [PLoS ONE 16(7):e0254484](https://doi.org/10.1371/journal.pone.0254484).   
    **Data:** Available in the article suppemental material an also at [OSF repository](https://osf.io/p75c3/).  
    **Languages of data:** Spanish   
@@ -76,8 +83,6 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Languages of data:** Chilean Spanish   
    **Dimensions annotated:** familiarity, ambiguity, compositionality, transparency.   
    **Number of idioms:** 1082.
-
-
 
  ---  
 ## Data sets from computational linguistics <a name="compling">
