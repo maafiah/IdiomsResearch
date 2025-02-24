@@ -2,7 +2,7 @@
 
 A repository of data and links for reserach on idiomatic expressions  
 
-For: lingusitics, psycholingusitics, computational linguistics, education.
+For: lingusitics, psycholinguistics, computational linguistics, education.
 
 ## Overview
 A repository of data and links for reserach on idiomatic expressions  
