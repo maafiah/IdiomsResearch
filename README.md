@@ -2,7 +2,7 @@
 
 A repository of data and links for reserach on idiomatic expressions  
 
-For: lingusitics, psycholinguistics, computational linguistics, education.
+For: linguistics, psycholinguistics, computational linguistics, education.
 
 ## Overview
 A repository of data and links for reserach on idiomatic expressions  
@@ -106,7 +106,7 @@ Such data sets typically include annotations.
    **Article:** Adewumi, T., Vadoodi, R., Tripathy, A., Nikolaido, K., Liwicki, F., & Liwicki, M. (2022). Potential Idiomatic Expression (PIE)-English: Corpus for Classes of Idioms. [Proceedings of the Thirteenth Language Resources and Evaluation Conference (LREC 2022)](https://aclanthology.org/2022.lrec-1.72/).  
    **Data:** Data is available at the author's github reposiroty [idesk](https://github.com/tosingithub/idesk)  
    **Languages of data:** English  
-   **Data description:** "over 20,100 samples with almost 1,200 cases of idioms (with their meanings) from 10 classes (or senses)."  \
+   **Data description:** "over 20,100 samples with almost 1,200 cases of idioms (with their meanings) from 10 classes (or senses)."  
 
 - **IMIL**  (Idiom Mapping for Indian Languages)  
    **Article:** Agrawal, R., Kumar, V.C., Muralidharan, V., & Sharma, D. (2018). No more beating about the bush : A Step towards Idiom Handling for Indian Language NLP. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1048/).  
@@ -119,6 +119,12 @@ Such data sets typically include annotations.
    **Data:** Data is available the author's github reposiroty [IdiomTranslationDS](https://github.com/marziehf/IdiomTranslationDS)  
    **Languages of data:** English and German idioms and their translations.  
    **Data description:** Sentences automatically extracted from a German-English translation corpus. Annotated for idioms. Originally used for evaluation of MT.   \
+
+- **LIdioms**  
+   **Article:** Moussallem, D., Sherif, M.A., Esteves, D., Zampieri, M.,  Ngonga Ngomo, A.-C. (2018). LIDIOMS: A Multilingual Linked Idioms Data Set. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1392/); [Arxiv](https://arxiv.org/abs/1802.08148).  
+   **Data:**  [Github project](https://github.com/dice-group/LIdioms);  [old page](https://aksw.org/Projects/LinkedIdioms.html)  
+   **Languages of data:** English, German, Italian, Portuguese, and Russian.  
+   **Data description:**  A multilingual **RDF** representation of idioms in five languages.   
 
 
 
