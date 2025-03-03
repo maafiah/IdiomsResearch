@@ -124,8 +124,13 @@ Such data sets typically include annotations.
    **Article:** Moussallem, D., Sherif, M.A., Esteves, D., Zampieri, M.,  Ngonga Ngomo, A.-C. (2018). LIDIOMS: A Multilingual Linked Idioms Data Set. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1392/); [Arxiv](https://arxiv.org/abs/1802.08148).  
    **Data:**  [Github project](https://github.com/dice-group/LIdioms);  [old page](https://aksw.org/Projects/LinkedIdioms.html)  
    **Languages of data:** English, German, Italian, Portuguese, and Russian.  
-   **Data description:**  A multilingual **RDF** representation of idioms in five languages.   
-
+   **Data description:**  A multilingual **RDF** representation of idioms in five languages.
+  
+- **CultureLLM**  
+   **Article:** Li, C., Chen, M., Wang, J., Sitaram, S., & Xie, X. (2024, December 3). Culturellm: Incorporating cultural differences into large language models. arXiv.org. (https://arxiv.org/abs/2402.10946)  
+   **Data:**  [Github project](https://github.com/Scarelette/CultureLLM?tab=readme-ov-file#2-dataset-for-fine-tuning-and-experients)
+   **Languages of data:** Arabic (Ar), Bengali (Bn), Chinese (Zh), English (En, United States), German (De), Korean (Ko), Portuguese (Pt), Spanish (Es), Turkish (Tr).  
+   **Data description:**  Totally having 59 test sets, covering 9 languages and containing 68,607 test samples. 
 
 
 
