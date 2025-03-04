@@ -128,7 +128,7 @@ Such data sets typically include annotations.
   
 - **CultureLLM**  
    **Article:** Li, C., Chen, M., Wang, J., Sitaram, S., & Xie, X. (2024, December 3). Culturellm: Incorporating cultural differences into large language models. arXiv.org. (https://arxiv.org/abs/2402.10946)  
-   **Data:**  [Github project](https://github.com/Scarelette/CultureLLM?tab=readme-ov-file#2-dataset-for-fine-tuning-and-experients)
+   **Data:**  [Github project](https://github.com/Scarelette/CultureLLM?tab=readme-ov-file#2-dataset-for-fine-tuning-and-experients)  
    **Languages of data:** Arabic (Ar), Bengali (Bn), Chinese (Zh), English (En, United States), German (De), Korean (Ko), Portuguese (Pt), Spanish (Es), Turkish (Tr).  
    **Data description:**  Totally having 59 test sets, covering 9 languages and containing 68,607 test samples. 
 
