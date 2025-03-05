@@ -129,8 +129,12 @@ Such data sets typically include annotations.
 - **CultureLLM**  
    **Article:** Li, C., Chen, M., Wang, J., Sitaram, S., & Xie, X. (2024, December 3). Culturellm: Incorporating cultural differences into large language models. arXiv.org. (https://arxiv.org/abs/2402.10946)  
    **Data:**  [Github project](https://github.com/Scarelette/CultureLLM?tab=readme-ov-file#2-dataset-for-fine-tuning-and-experients)  
-   **Languages of data:** Arabic (Ar), Bengali (Bn), Chinese (Zh), English (En, United States), German (De), Korean (Ko), Portuguese (Pt), Spanish (Es), Turkish (Tr).  
+   **Languages of data:** Arabic (Ar), Bengali (Bn), Chinese (Zh), English (En, United States), German (De), Korean (Ko), Portuguese (Pt), Spanish (Es), and Turkish (Tr).  
    **Data description:**  Totally having 59 test sets, covering 9 languages and containing 68,607 test samples. 
 
-
+- **Khoshtab.et.al.2024**  
+   **Article:** Khoshtab, P., Namazifard, D., Masoudi, M., Akhgary, A., Sani, S. M., & Yaghoobzadeh, Y. (2024, October 21). Comparative study of multilingual idioms and similes in large language models. arXiv.org. https://arxiv.org/abs/2410.16461   
+   **Data:**  [Github project](https://github.com/namazifard/Multilingual-Idioms-Similes/tree/main)  
+   **Languages of data:** English, Indonesian, Hindi, Swahili, Yoruba, Kannada, Sundanese, Javanese, Mandarin Chinese, Bengali, German, and Russian.  
+   **Data description:** Multiple datasets with idioms and smiles of different languages. Samples of idioms are labeled.  
 
