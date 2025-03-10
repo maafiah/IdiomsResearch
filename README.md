@@ -138,3 +138,16 @@ Such data sets typically include annotations.
    **Languages of data:** English, Indonesian, Hindi, Swahili, Yoruba, Kannada, Sundanese, Javanese, Mandarin Chinese, Bengali, German, and Russian.  
    **Data description:** Multiple datasets with idioms and smiles of different languages. Samples of idioms are labeled.  
 
+- **Ru_idioms**  
+   **Article:** Aharodnik, K., Feldman, A., & Peng, J. (2018). Designing a Russian idiom-annotated corpus. ACL Anthology. https://aclanthology.org/L18-1402.pdf    
+   **Data:**  [Github project](https://github.com/bondfeld/Ru_idioms)  
+   **Languages of data:** Russian idioms with English translations.  
+   **Data description:** Russian corpus with idioms, each corpus entry contains two paragraphs with one target expressions (idiomatic or literal).
+
+  - **PETCI**  
+   **Article:** Tang, K. (2022, February 19). Petci: A parallel English translation dataset of Chinese idioms. arXiv.org. https://arxiv.org/abs/2202.09509     
+   **Data:**  [Github project](https://github.com/kenantang/petci)  
+   **Languages of data:** Chinese idioms with English translations.  
+   **Data description:** English translation (including human translation and machine translation) dataset of Chinese idioms, containing 4310 Chinese idioms and 29936 English translations.
+
+    
