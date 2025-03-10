@@ -144,7 +144,7 @@ Such data sets typically include annotations.
    **Languages of data:** Russian idioms with English translations.  
    **Data description:** Russian corpus with idioms, each corpus entry contains two paragraphs with one target expressions (idiomatic or literal).
 
-  - **PETCI**  
+- **PETCI**  
    **Article:** Tang, K. (2022, February 19). Petci: A parallel English translation dataset of Chinese idioms. arXiv.org. https://arxiv.org/abs/2202.09509     
    **Data:**  [Github project](https://github.com/kenantang/petci)  
    **Languages of data:** Chinese idioms with English translations.  
