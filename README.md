@@ -212,9 +212,9 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data description:** English translation (including human translation and machine translation) dataset of Chinese idioms, containing 4310 Chinese idioms and 29936 English translations.
 
 - **IDIOMENT**  
-   **Article:** Williams, L., Bannister, C., Arribas-Ayllon, M., Preece, A., & Spasić, I. (2015) The role of idioms in sentiment analysis. [Expert Systems with Applications, 42(21)](https://www.sciencedirect.com/science/article/pii/S0957417415003759).
+   **Article:** Williams, L., Bannister, C., Arribas-Ayllon, M., Preece, A., & Spasić, I. (2015) The role of idioms in sentiment analysis. [Expert Systems with Applications, 42(21)](https://www.sciencedirect.com/science/article/pii/S0957417415003759).   
     Spasić, I., Williams, L., & Buerki, A. (2017) Idiom-based features in sentiment analysis: Cutting the Gordian knot. [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/8226982).   
-   **Data:**  [Project page](https://users.cs.cf.ac.uk/I.Spasic/idioment/)  
+   **Data:**  Available from the Cardiff University [project page](https://users.cs.cf.ac.uk/I.Spasic/idioment/)  
    **Languages of data:** English.  
    **Data description:** Idioms annotated with sentiment polarity. 2521 sentences.
 
@@ -234,6 +234,19 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Article:** Liu, C., & Hwa, R. (2016). Phrasal Substitution of Idiomatic Expressions. [Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2018)](https://aclanthology.org/N16-1040/).    
    **Data:**  Available from [Github site](https://github.com/liucs1986/idiom_corpus).  
    **Languages of data:** English.  
-   **Data description:** 172 idioms in sentence context.   
+   **Data description:** 172 idioms in sentence context.
+
+- **Compositionality in Compound Nouns**   
+   **Article:** Reddy, S., McCarthy, D., & Manandhar, S. (2011). An Empirical Study on Compositionality in Compound Nouns. [Proceedings of the International Joint Conference on Natural Language Processing 2011 (IJCNLP-2011)](https://aclanthology.org/I11-1024/).  
+   **Data:**  Available from [this page](http://www.dianamccarthy.co.uk/downloads.html), [direct link](http://www.dianamccarthy.co.uk/files/ijcnlp_compositionality_data.tgz).  
+   **Languages of data:** English.  
+   **Data description:** 90 noun-noun compounds.
+
+- **Idiom paraphrases**   
+   **Article:** Pershina, M., He, Y., & Grishman, R. (2016) Idiom Paraphrases: Seventh Heaven vs Cloud Nine. [Proceedings of the First Workshop on Linking Computational Models of Lexical, Sentential and Discourse-level Semantics)](https://aclanthology.org/W15-2709/).  
+   **Data:**  Available from [Github project](https://github.com/masha-p/Idiom_Paraphrases).  
+   **Languages of data:** English.  
+   **Data description:** 2432 different idioms and their descriptions.
+    
 
 
