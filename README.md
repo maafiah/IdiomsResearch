@@ -109,10 +109,11 @@ Such data sets typically include annotations.
    **Data description:** "over 20,100 samples with almost 1,200 cases of idioms (with their meanings) from 10 classes (or senses)."  
    
 - **VNC Tokens**  
-   **Article:** Cook, P., Fazly, A., & Stevenson, S.  (2007). The VNC-Tokens Dataset. [conf name](https://where.org).  
+   **Article:** Cook, P., Fazly, A., & Stevenson, S.  (2008). The VNC-Tokens Dataset. [Proceedings of the LREC Workshop on Towards a Shared Task for
+Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/workshops/W20_Proceedings.pdf). See also Fazly, A., Cook, P., & Stevenson, S. (2009). Unsupervised Type and Token Identification of Idiomatic Expressions. [Computational Linguistics](https://aclanthology.org/J09-1005/) 
    **Data:** ??  
    **Languages of data:** English  
-   **Data description:** "3000 English verb–noun combination usages (tokens) annotated as to whether they are literal or idiomatic."  
+   **Data description:** "2984 English verb–noun combination usages (tokens) annotated as to whether they are literal or idiomatic." The dataset contains idiom atic phrases and pointers to XML files of the BNC-XML edition where the full textual context can be found.   
 
 - **IMIL**  (Idiom Mapping for Indian Languages)  
    **Article:** Agrawal, R., Kumar, V.C., Muralidharan, V., & Sharma, D. (2018). No more beating about the bush : A Step towards Idiom Handling for Indian Language NLP. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1048/).  
