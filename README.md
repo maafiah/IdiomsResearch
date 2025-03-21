@@ -163,6 +163,7 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
 
 - **SemEval-2013 task 5b**  (Semantic Compositionality in Context)  
    **Article:** Korkontzelos, I., Zesch, T., Zanzotto, F.M., & Biemann, C. (2018). SemEval-2013 Task 5: Evaluating Phrasal Semantics. [Second Joint Conference on Lexical and Computational Semantics (*SEM)](https://aclanthology.org/S13-2007/).
+  See als other papers 
    **Task**  "decide whether a target phrase is used in its literal or figurative meaning in a given context".    
    **Data:** Original 2013 repository is not available. (use copy?)    
    **Languages of data:** English.  
@@ -210,9 +211,16 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** Chinese idioms with English translations.  
    **Data description:** English translation (including human translation and machine translation) dataset of Chinese idioms, containing 4310 Chinese idioms and 29936 English translations.
 
-    
 - **IDIOMEM**  
-   **Article:** Haviv, A., Cohen, I., Gidron, J., Schuster, R., Goldberg, Y., & Geva, M. (2023, February 13). Understanding transformer memorization recall through idioms. arXiv.org. https://arxiv.org/abs/2210.03588      
+   **Article:** Haviv, A., Cohen, I., Gidron, J., Schuster, R., Goldberg, Y., & Geva, M. (2023, February 13). Understanding transformer memorization recall through idioms. [arXiv.org](https://arxiv.org/abs/2210.03588).      
    **Data:**  [Github project](https://github.com/adihaviv/idiomem/tree/main)  
    **Languages of data:** English.  
    **Data description:** A new dataset that combining multiple existing English idioms datasets with idioms scraped from the website “Education First” (EF).
+
+- **SLIDE**  
+   **Article:** Jochim, C., Bonin, F., Bar-Haim, R., & Slonim, N. (2018). SLIDE - a Sentiment Lexicon of Common Idioms. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1379/).    
+   **Data:**  available from [IBM Research](https://research.ibm.com/haifa/dept/vst/debating_data.shtml#Argument_Stance), see SLIDE on that page.  
+   **Languages of data:** English.  
+   **Data description:** 5000 idioms with sentiment annotation.   
+
+
