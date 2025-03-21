@@ -48,6 +48,14 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Dimensions annotated:** knowledge, predictability, literality, compositionality, subjective and objective frequency, familiarity, age of acquisition (AoA) and length.   
    **Number of idioms:** 160 idioms and 160 proverbs.
 
+- **Going to town**  
+   **Article:**  Bulkes, N., & Tanner, D.(2017). “Going to town”: Large-scale norming and statistical analysis of 870 American English idioms. [Behavior Research Methods, 49, 772–783]([https://link.springer.com/article/10.3758/s13428-015-0581-4](https://link.springer.com/article/10.3758/s13428-016-0747-8)). \
+  **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
+[Direct link to XLS file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-016-0747-8/MediaObjects/13428_2016_747_MOESM1_ESM.xlsx)  
+   **Languages of data:** English  
+   **Dimensions annotated:** familiarity, meaningfulness, literal plausibility, global decomposability, and predictability.    
+   **Number of idioms:** 870.
+
 - **PANIG**  
    **Article:** Citron, F.M.M., Cacciari, V., Kucharski, M., Beck, L., Conrad M., & Jacobs, A.M. (2016). When emotions are expressed figuratively: Psycholinguistic and Affective Norms of 619 Idioms for German. [Behavior Research Methods, 48, 91–111](https://link.springer.com/article/10.3758/s13428-015-0581-4). \
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
@@ -102,8 +110,8 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Article:** Morid M, Sabourin L. (2024). Affective and sensory–motor norms for idioms by L1 and L2 English speakers. [Applied Psycholinguistics. 2024;45(1):138-155](https://doi.org/10.1017/S0142716423000504).    
    **Data:** Available at [OSF repository](https://osf.io/g5u8h/).  
    **Languages of data:** Englsh.  
-   **Dimensions annotated:** arousal, valence, concreteness, imageability.   
-   **Number of idioms:** 210.
+   **Dimensions annotated:** arousal, valence, concreteness, imageability. Compares annotations done by English L1 and L2 speakers.  
+   **Number of idioms:** 210 (from Libben and Titone, 2008).   
 
 
  ---  
