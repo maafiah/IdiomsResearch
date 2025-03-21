@@ -80,14 +80,22 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
 
 - **Chinese idioms**  
    **Article:** Li, D., Zhan, Y., & Wang, X. (2016). Descriptive norms for 350 Chinese idioms with seven syntactic structures (2016). [Behavior Research Methods, 48, 1678–1693](https://link.springer.com/article/10.3758/s13428-015-0692-y).  
-   **Data:** Idiomsare listed in the appendix of the article.  
+   **Data:** Idioms are listed in the appendix of the article. Quantitative data is not available. 
    **Languages of data:** Chinese  
-   **Dimensions annotated:** ?  \
+   **Dimensions annotated:** knowledge, familiarity, subjective frequency, age of acquisition, predictability, literality, and compositionality. \
    **Number of idioms:** 350.
+
+- **Dutch idioms**  
+   **Article:** Hubers, F., Cucchiarini, C., Strik, H., & Dijkstra, T. (2019). Normative data of Dutch idiomatic
+expressions: Subjective judgments you can bank on. [Frontiers in Psychology, 10, 1075](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01075/full).   
+   **Data:** Available in the article [suppemental material](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01075/full#supplementary-material).  
+   **Languages of data:** Dutch.   
+   **Dimensions annotated:** frequency of exposure, meaning familiarity, frequency of usage, transparency, and imageability.   
+   **Number of idioms:** 374.
 
 - **Gavilán.et.al.2021**  
    **Article:** Gavilán, J.M., Haro, J., Hinojosa, J.A., Fraga, I., & Ferré, P. (2021). Psycholinguistic and affective norms for 1,252 Spanish idiomatic expressions. [PLoS ONE 16(7):e0254484](https://doi.org/10.1371/journal.pone.0254484).   
-   **Data:** Available in the article suppemental material an also at [OSF repository](https://osf.io/p75c3/).  
+   **Data:** Available in the article suppemental material and also at [OSF repository](https://osf.io/p75c3/).  
    **Languages of data:** Spanish   
    **Dimensions annotated:** familiarity, knowledge, decomposability, literality, predictability, valence and arousal.   
    **Number of idioms:** 1252.
