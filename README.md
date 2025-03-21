@@ -110,7 +110,8 @@ Such data sets typically include annotations.
    
 - **VNC Tokens**  
    **Article:** Cook, P., Fazly, A., & Stevenson, S.  (2008). The VNC-Tokens Dataset. [Proceedings of the LREC Workshop on Towards a Shared Task for
-Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/workshops/W20_Proceedings.pdf). See also Fazly, A., Cook, P., & Stevenson, S. (2009). Unsupervised Type and Token Identification of Idiomatic Expressions. [Computational Linguistics](https://aclanthology.org/J09-1005/) 
+Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/workshops/W20_Proceedings.pdf).   
+  See also Fazly, A., Cook, P., & Stevenson, S. (2009). Unsupervised Type and Token Identification of Idiomatic Expressions. [Computational Linguistics](https://aclanthology.org/J09-1005/)  
    **Data:** ??  
    **Languages of data:** English  
    **Data description:** "2984 English verb–noun combination usages (tokens) annotated as to whether they are literal or idiomatic." The dataset contains idiom atic phrases and pointers to XML files of the BNC-XML edition where the full textual context can be found.   
@@ -125,7 +126,7 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Article:** Fadaee, M., Bisazza, A., & Monz, C. (2018). Examining the Tip of the Iceberg: A Data Set for Idiom Translation. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1148/).  
    **Data:** Data is available the author's github reposiroty [IdiomTranslationDS](https://github.com/marziehf/IdiomTranslationDS)  
    **Languages of data:** English and German idioms and their translations.  
-   **Data description:** Sentences automatically extracted from a German-English translation corpus. Annotated for idioms. Originally used for evaluation of MT.   \
+   **Data description:** Sentences automatically extracted from a German-English translation corpus. Annotated for idioms. Originally used for evaluation of MT.   
 
 - **LIdioms**  
    **Article:** Moussallem, D., Sherif, M.A., Esteves, D., Zampieri, M.,  Ngonga Ngomo, A.-C. (2018). LIDIOMS: A Multilingual Linked Idioms Data Set. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1392/); [Arxiv](https://arxiv.org/abs/1802.08148).  
