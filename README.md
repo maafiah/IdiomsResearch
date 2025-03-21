@@ -84,6 +84,12 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Dimensions annotated:** familiarity, ambiguity, compositionality, transparency.   
    **Number of idioms:** 1082.
 
+- **Bressler.et.al.2025**  
+   **Article:** Bressler, M., Mangiaterra, V., Canal, P., Frau, F., Luciani, F., Scalingi, B., Pietro, C. B. di S., Battaglini, C., Pompei, C., Romeo, F., Bischetti, L., & Bambini, V. (2025, March 1). Figurative archive: An open dataset and web-based application for the study of metaphor. arXiv.org. https://arxiv.org/abs/2503.00444.   
+   **Data:** Available in the [Zenodo repository](https://doi.org/10.5281/zenodo.14924803) and the [web interface](https://neplab.shinyapps.io/FigurativeArchive/) also at [OSF repository](https://osf.io/cxpzj/).  
+   **Languages of data:** Italian   
+   **Dimensions annotated:** familiarity, lexical frequency.   
+   **Number of idioms:** 997.
  ---  
 ## Data sets from computational linguistics <a name="compling">
 Such data sets typically include annotations. 
