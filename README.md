@@ -1,6 +1,6 @@
 # Idioms Research repository
 
-A repository of data and links for reserach on idiomatic expressions  
+A repository of data and links to data and the original research papers, for reserach on idiomatic expressions.  
 
 For: linguistics, psycholinguistics, computational linguistics, education.
 
