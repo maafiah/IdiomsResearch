@@ -161,6 +161,13 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English  
    **Data description:** "2984 English verb–noun combination usages (tokens) annotated as to whether they are literal or idiomatic." The dataset contains idiomatic phrases and pointers to XML files of the BNC-XML edition where the full textual context can be found.   
 
+- **SemEval-2013 task 5b**  (Semantic Compositionality in Context)  
+   **Article:** Korkontzelos, I., Zesch, T., Zanzotto, F.M., & Biemann, C. (2018). SemEval-2013 Task 5: Evaluating Phrasal Semantics. [Second Joint Conference on Lexical and Computational Semantics (*SEM)](https://aclanthology.org/S13-2007/).
+   **Task**  "decide whether a target phrase is used in its literal or figurative meaning in a given context".    
+   **Data:** Original 2013 repository is not available. (use copy?)    
+   **Languages of data:** English.  
+   **Data description:** Two subtasks: allwords and lexical sample. For 'allwords': train set (1114), dev set (342), test set (518 examples). For lexical sample: train set (1424), dev set (358), test set (594 examples).    
+
 - **IMIL**  (Idiom Mapping for Indian Languages)  
    **Article:** Agrawal, R., Kumar, V.C., Muralidharan, V., & Sharma, D. (2018). No more beating about the bush : A Step towards Idiom Handling for Indian Language NLP. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1048/).  
    **Data:** Data is available on Google drive [folder](https://drive.google.com/drive/folders/1KCOI0Pk5HRef8t1pGEusFUY7ap6yxxFR)  
