@@ -7,7 +7,7 @@ For: linguistics, psycholinguistics, computational linguistics, education.
 ## Overview
 A repository of data and links for reserach on idiomatic expressions  
 
-[Psycling data](#psycling)  [Compling data](#compling)
+[Psycling data](#psycling)  |  [Compling data](#compling)
 
 <!-- This is a comment, it will not be included -->
 
