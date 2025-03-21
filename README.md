@@ -243,10 +243,16 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data description:** 90 noun-noun compounds.
 
 - **Idiom paraphrases**   
-   **Article:** Pershina, M., He, Y., & Grishman, R. (2016) Idiom Paraphrases: Seventh Heaven vs Cloud Nine. [Proceedings of the First Workshop on Linking Computational Models of Lexical, Sentential and Discourse-level Semantics)](https://aclanthology.org/W15-2709/).  
+   **Article:** Pershina, M., He, Y., & Grishman, R. (2016). Idiom Paraphrases: Seventh Heaven vs Cloud Nine. [Proceedings of the First Workshop on Linking Computational Models of Lexical, Sentential and Discourse-level Semantics](https://aclanthology.org/W15-2709/).  
    **Data:**  Available from [Github project](https://github.com/masha-p/Idiom_Paraphrases).  
    **Languages of data:** English.  
    **Data description:** 2432 different idioms and their descriptions.
+
+- **AStitchInLanguageModels**   
+   **Article:** Tayyar Madabushi, H., Gow-Smith, E., Scarton, C., & Villavicencio, A. (2021). AStitchInLanguageModels: Dataset and Methods for the Exploration of Idiomaticity in Pre-Trained Language Models. [](https://aclanthology.org/2021.findings-emnlp.294/).  
+   **Data:**  Available from [Github project](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels).  
+   **Languages of data:** English and Portuguese.  
+   **Data description:** "sentences containing MWEs manually classified into a fine-grained set of meanings".
     
 
 
