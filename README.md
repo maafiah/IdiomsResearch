@@ -151,7 +151,7 @@ Such data sets typically include annotations.
    **Data description:** English translation (including human translation and machine translation) dataset of Chinese idioms, containing 4310 Chinese idioms and 29936 English translations.
 
     
-- **PETCI**  
+- **IDIOMEM**  
    **Article:** Haviv, A., Cohen, I., Gidron, J., Schuster, R., Goldberg, Y., & Geva, M. (2023, February 13). Understanding transformer memorization recall through idioms. arXiv.org. https://arxiv.org/abs/2210.03588      
    **Data:**  [Github project](https://github.com/adihaviv/idiomem/tree/main)  
    **Languages of data:** English.  
