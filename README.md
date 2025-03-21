@@ -219,8 +219,14 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
 
 - **SLIDE**  
    **Article:** Jochim, C., Bonin, F., Bar-Haim, R., & Slonim, N. (2018). SLIDE - a Sentiment Lexicon of Common Idioms. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1379/).    
-   **Data:**  available from [IBM Research](https://research.ibm.com/haifa/dept/vst/debating_data.shtml#Argument_Stance), see SLIDE on that page.  
+   **Data:**  Available from [IBM Research](https://research.ibm.com/haifa/dept/vst/debating_data.shtml#Argument_Stance), see SLIDE on that page.  
    **Languages of data:** English.  
    **Data description:** 5000 idioms with sentiment annotation.   
+
+- **Idiom substitution**   
+   **Article:** Liu, C., & Hwa, R. (2016). Phrasal Substitution of Idiomatic Expressions. [Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2018)](https://aclanthology.org/N16-1040/).    
+   **Data:**  Available from [Github site](https://github.com/liucs1986/idiom_corpus).  
+   **Languages of data:** English.  
+   **Data description:** 172 idioms in sentence context.   
 
 
