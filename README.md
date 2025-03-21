@@ -92,10 +92,10 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Number of idioms:** 997.
 
 - **Pagliai 2023**  
-   **Article:** Pagliai, I. (2023). Bridging the Gap: Creation of a Lexicon of 150 Pairs of English and Italian Idioms Including Normed Variables for the Exploration of Idiomatic Ambiguity. [Journal of Open Humanities Data, 9(1), 16](https://doi.org/10.5334/johd.123)    
-   **Data:** Available at [Goettingen research online](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/EPSWDY)) .  
+   **Article:** Pagliai, I. (2023). Bridging the Gap: Creation of a Lexicon of 150 Pairs of English and Italian Idioms Including Normed Variables for the Exploration of Idiomatic Ambiguity. [Journal of Open Humanities Data, 9(1), 16](https://doi.org/10.5334/johd.123).    
+   **Data:** Available at [Goettingen research online](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/EPSWDY) repository.  
    **Languages of data:** Englsih and Italian (paired).  
-   **Dimensions annotated:** familiarity, literality, decomposability, transparency, objectibe knowledge, meaningfulness.   
+   **Dimensions annotated:** familiarity, literality, decomposability, transparency, objective knowledge, meaningfulness.   
    **Number of idioms:** 150.
 
  ---  
