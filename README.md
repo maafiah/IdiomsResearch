@@ -211,6 +211,13 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** Chinese idioms with English translations.  
    **Data description:** English translation (including human translation and machine translation) dataset of Chinese idioms, containing 4310 Chinese idioms and 29936 English translations.
 
+- **IDIOMENT**  
+   **Article:** Williams, L., Bannister, C., Arribas-Ayllon, M., Preece, A., & Spasić, I. (2015) The role of idioms in sentiment analysis. [Expert Systems with Applications, 42(21)](https://www.sciencedirect.com/science/article/pii/S0957417415003759).
+    Spasić, I., Williams, L., & Buerki, A. (2017) Idiom-based features in sentiment analysis: Cutting the Gordian knot. [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/8226982).   
+   **Data:**  [Project page](https://users.cs.cf.ac.uk/I.Spasic/idioment/)  
+   **Languages of data:** English.  
+   **Data description:** Idioms annotated with sentiment polarity. 2521 sentences.
+
 - **IDIOMEM**  
    **Article:** Haviv, A., Cohen, I., Gidron, J., Schuster, R., Goldberg, Y., & Geva, M. (2023, February 13). Understanding transformer memorization recall through idioms. [arXiv.org](https://arxiv.org/abs/2210.03588).      
    **Data:**  [Github project](https://github.com/adihaviv/idiomem/tree/main)  
