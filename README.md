@@ -172,7 +172,7 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Article:** Tayyar Madabushi, H., Gow-Smith, E., Garcia, M., Scarton, C., Idiart, M., & Villavicencio, A. (2022). SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding. [Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)](https://aclanthology.org/2022.semeval-1.13/).
    **Data:** [Task website:](https://sites.google.com/view/semeval2022task2-idiomaticity). Data is available from the [Github project](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).    
    **Languages of data:** Galician, Portuguese, English.  
-   **Data description:** 5352 instances for English, 2555 for Portuguese, and 776 for Galician. Phrases in short context. This dataset extends the --AStitchInLanguageModels-- dataset.  
+   **Data description:** 5352 instances for English, 2555 for Portuguese, and 776 for Galician. Phrases in short context. This dataset extends the _AStitchInLanguageModels_ dataset.  
 
 - **IMIL**  (Idiom Mapping for Indian Languages)  
    **Article:** Agrawal, R., Kumar, V.C., Muralidharan, V., & Sharma, D. (2018). No more beating about the bush : A Step towards Idiom Handling for Indian Language NLP. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1048/).  
