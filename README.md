@@ -163,11 +163,16 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
 
 - **SemEval-2013 task 5b**  (Semantic Compositionality in Context)  
    **Article:** Korkontzelos, I., Zesch, T., Zanzotto, F.M., & Biemann, C. (2018). SemEval-2013 Task 5: Evaluating Phrasal Semantics. [Second Joint Conference on Lexical and Computational Semantics (*SEM)](https://aclanthology.org/S13-2007/).
-  See als other papers 
    **Task**  "decide whether a target phrase is used in its literal or figurative meaning in a given context".    
    **Data:** Original 2013 repository is not available. (use copy?)    
    **Languages of data:** English.  
    **Data description:** Two subtasks: allwords and lexical sample. For 'allwords': train set (1114), dev set (342), test set (518 examples). For lexical sample: train set (1424), dev set (358), test set (594 examples).    
+
+- **SemEval 2022 task 2**  (Multilingual Idiomaticity Detection and Sentence Embedding)  
+   **Article:** Tayyar Madabushi, H., Gow-Smith, E., Garcia, M., Scarton, C., Idiart, M., & Villavicencio, A. (2022). SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding. [Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)](https://aclanthology.org/2022.semeval-1.13/).
+   **Data:** [Task website:](https://sites.google.com/view/semeval2022task2-idiomaticity). Data is available from the [Github project](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).    
+   **Languages of data:** Galician, Portuguese, English.  
+   **Data description:** 5352 instances for English, 2555 for Portuguese, and 776 for Galician. Phrases in short context. This dataset extends the --AStitchInLanguageModels-- dataset.  
 
 - **IMIL**  (Idiom Mapping for Indian Languages)  
    **Article:** Agrawal, R., Kumar, V.C., Muralidharan, V., & Sharma, D. (2018). No more beating about the bush : A Step towards Idiom Handling for Indian Language NLP. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1048/).  
