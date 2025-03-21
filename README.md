@@ -49,7 +49,7 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Number of idioms:** 160 idioms and 160 proverbs.
 
 - **Going to town**  
-   **Article:**  Bulkes, N., & Tanner, D.(2017). “Going to town”: Large-scale norming and statistical analysis of 870 American English idioms. [Behavior Research Methods, 49, 772–783]([https://link.springer.com/article/10.3758/s13428-015-0581-4](https://link.springer.com/article/10.3758/s13428-016-0747-8)). \
+   **Article:**  Bulkes, N., & Tanner, D.(2017). “Going to town”: Large-scale norming and statistical analysis of 870 American English idioms. [Behavior Research Methods, 49, 772–783](https://link.springer.com/article/10.3758/s13428-016-0747-8)). \
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
 [Direct link to XLS file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-016-0747-8/MediaObjects/13428_2016_747_MOESM1_ESM.xlsx)  
    **Languages of data:** English  
