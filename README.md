@@ -26,7 +26,7 @@ A repository of data and links for reserach on idiomatic expressions
    **Number of idioms:** 210
 
 - **Tabossi.et.al.2011**  
-   **Article:** Tabossi, P., Arduino, L., & Fanari, R. (2011). [Behavior Research Methods, 43, 110–123.](https://link.springer.com/article/10.3758/s13428-010-0018-z)  
+   **Article:** Tabossi, P., Arduino, L., & Fanari, R. (2011). Descriptive norms for 245 Italian idiomatic expressions. [Behavior Research Methods, 43, 110–123.](https://link.springer.com/article/10.3758/s13428-010-0018-z)  
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
 Direct links: [norms xls file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-010-0018-z/MediaObjects/13428_2010_18_MOESM1_ESM.xls), [syntax norms xls file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-010-0018-z/MediaObjects/13428_2010_18_MOESM2_ESM.xls), [readme doc file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-010-0018-z/MediaObjects/13428_2010_18_MOESM3_ESM.doc)    
    **Languages of data:** Italian  
@@ -77,6 +77,13 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Languages of data:** Greek  
    **Dimensions annotated:** subjective frequency, ambiguity, and decomposability  \
    **Number of idioms:** 400
+
+- **Chinese idioms**  
+   **Article:** Li, D., Zhan, Y., & Wang, X. (2016). Descriptive norms for 350 Chinese idioms with seven syntactic structures (2016). [Behavior Research Methods, 48, 1678–1693](https://link.springer.com/article/10.3758/s13428-015-0692-y).  
+   **Data:** Idiomsare listed in the appendix of the article.  
+   **Languages of data:** Chinese  
+   **Dimensions annotated:** ?  \
+   **Number of idioms:** 350.
 
 - **Gavilán.et.al.2021**  
    **Article:** Gavilán, J.M., Haro, J., Hinojosa, J.A., Fraga, I., & Ferré, P. (2021). Psycholinguistic and affective norms for 1,252 Spanish idiomatic expressions. [PLoS ONE 16(7):e0254484](https://doi.org/10.1371/journal.pone.0254484).   
