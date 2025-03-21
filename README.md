@@ -94,9 +94,17 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
 - **Pagliai 2023**  
    **Article:** Pagliai, I. (2023). Bridging the Gap: Creation of a Lexicon of 150 Pairs of English and Italian Idioms Including Normed Variables for the Exploration of Idiomatic Ambiguity. [Journal of Open Humanities Data, 9(1), 16](https://doi.org/10.5334/johd.123).    
    **Data:** Available at [Goettingen research online](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/EPSWDY) repository.  
-   **Languages of data:** Englsih and Italian (paired).  
+   **Languages of data:** English and Italian (paired).  
    **Dimensions annotated:** familiarity, literality, decomposability, transparency, objective knowledge, meaningfulness.   
    **Number of idioms:** 150.
+
+- **ASN Idioms norms**  
+   **Article:** Morid M, Sabourin L. (2024). Affective and sensory–motor norms for idioms by L1 and L2 English speakers. [Applied Psycholinguistics. 2024;45(1):138-155](https://doi.org/10.1017/S0142716423000504).    
+   **Data:** Available at [OSF repository](https://osf.io/g5u8h/).  
+   **Languages of data:** Englsh.  
+   **Dimensions annotated:** arousal, valence, concreteness, imageability.   
+   **Number of idioms:** 210.
+
 
  ---  
 ## Data sets from computational linguistics <a name="compling">
