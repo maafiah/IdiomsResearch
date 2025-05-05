@@ -253,11 +253,23 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English.  
    **Data description:** 2432 different idioms and their descriptions.
 
+- **CCT**   
+   **Article:** Jiang, Z., Zhang, B., Huang, L., Ji, H. (2018). Chengyu Cloze Test. [Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications](https://aclanthology.org/W18-0516/).  
+   **Data:**  Available from [Github project](https://github.com/bazingagin/chengyu_data).  
+   **Languages of data:** Chinese.  
+   **Data description:** 7395 Chengyu form idioms (types)  and 108987 context sentences.
+
 - **AStitchInLanguageModels**   
    **Article:** Tayyar Madabushi, H., Gow-Smith, E., Scarton, C., & Villavicencio, A. (2021). AStitchInLanguageModels: Dataset and Methods for the Exploration of Idiomaticity in Pre-Trained Language Models. [](https://aclanthology.org/2021.findings-emnlp.294/).  
    **Data:**  Available from [Github project](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels).  
    **Languages of data:** English and Portuguese.  
    **Data description:** "sentences containing MWEs manually classified into a fine-grained set of meanings".
-    
+
+- **IdiomKB**   
+   **Article:** Shuang Li, Jiangjie Chen, Siyu Yuan, Xinyi Wu, Hao Yang, Shimin Tao, Yanghua Xiao (2024). Translate meanings, not just words: IdiomKB's role in optimizing idiomatic translation with language models. [AAAI'24]([https://aclanthology.org/2021.findings-emnlp.294/](https://dl.acm.org/doi/10.1609/aaai.v38i17.29817)).  
+   **Data:**  Available from [Github project](https://github.com/lishuang-w/IdiomKB).  
+   **Languages of data:** English, Chinese and Japanese.    
+   **Data description:** A merger of everal previous datasets (MAGPIE, IMIL, EPIE, PIE.
+
 
 
