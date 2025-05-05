@@ -277,5 +277,11 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English    
    **Data description:** 823 idioms (types) with 5170 sentence-pairs  containing those idioms or their literal paraphrases.
 
+- **NCS**   
+   **Article:**  Garcia, M., Kramer Vieira, T.,  Scarton, C., Idiart, M., Villavicencio, A. (2021). Probing for idiomaticity in vector space models. [Proceedings of the 16th EACL (EACL2021)](https://aclanthology.org/2021.eacl-main.310/).  
+   **Data:**  Available from [Github project](https://github.com/marcospln/noun_compound_senses).    
+   **Languages of data:** English and Portuguese.      
+   **Data description:** 280 and 180 noun compounds (NCs) in English and Portuguese, with 5620/3600 sentences, marked for compositionality.  
+
 
 
