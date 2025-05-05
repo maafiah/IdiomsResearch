@@ -271,5 +271,11 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English, Chinese and Japanese.    
    **Data description:** A merger of everal previous datasets (MAGPIE, IMIL, EPIE, PIE, CCT, PETCI, and more.
 
+- **PIE**   
+   **Article:**  Zhou, J., Gong, H., Bhat, S. (2021). PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing. [Proceedings of the 17th Workshop on Multiword Expressions (MWE 2021)](https://aclanthology.org/2021.mwe-1.5/).  
+   **Data:**  Available from [Github project](https://github.com/zhjjn/MWE_PIE).    
+   **Languages of data:** English    
+   **Data description:** 823 idioms (types) with 5170 sentence-pairs  containing those idioms or their literal paraphrases.
+
 
 
