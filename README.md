@@ -286,7 +286,13 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
 - **Senaldi2019**   
    **Article:**  Senaldi, M., (2019). Working both sides of the street: computational and psycholinguistic investigations on idiomatic variability. [PhD thesis](https://ricerca.sns.it/handle/11384/86016).  
    **Data:**  Available as appendices in the manuscript.    
-   **Languages of data:** Italian.      
+   **Languages of data:** Italian.
    **Data description:**  90 verb-noun and 24 adjective-noun expressions, rated for compositionality. 
+
+- **9**   
+   **Article:**  Cordeiro, S., Villavicencio, A., Idiart, M., Ramisch, C. (2019). Unsupervised Compositionality Prediction of Nominal Compounds.  [Computational Linguistics, 45(1):1–57[](https://aclanthology.org/J19-1001/).  
+   **Data:**  Available from [this site](https://pageperso.lis-lab.fr/%7Ecarlos.ramisch/?page=downloads/compounds).    
+   **Languages of data:** English, French, Portuguese.  
+   **Data description:**  190/180/180 nominal compounds (types) rated for compositionality. 
 
 
