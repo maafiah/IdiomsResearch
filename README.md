@@ -266,10 +266,10 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data description:** "sentences containing MWEs manually classified into a fine-grained set of meanings".
 
 - **IdiomKB**   
-   **Article:** Shuang Li, Jiangjie Chen, Siyu Yuan, Xinyi Wu, Hao Yang, Shimin Tao, Yanghua Xiao (2024). Translate meanings, not just words: IdiomKB's role in optimizing idiomatic translation with language models. [AAAI'24]([https://aclanthology.org/2021.findings-emnlp.294/](https://dl.acm.org/doi/10.1609/aaai.v38i17.29817)).  
-   **Data:**  Available from [Github project](https://github.com/lishuang-w/IdiomKB).  
+   **Article:** Shuang Li, Jiangjie Chen, Siyu Yuan, Xinyi Wu, Hao Yang, Shimin Tao, Yanghua Xiao (2024). Translate meanings, not just words: IdiomKB's role in optimizing idiomatic translation with language models. [AAAI'24](https://dl.acm.org/doi/10.1609/aaai.v38i17.29817)).  
+   **Data:**  Available from [Github project](https://github.com/lishuang-w/IdiomKB).    
    **Languages of data:** English, Chinese and Japanese.    
-   **Data description:** A merger of everal previous datasets (MAGPIE, IMIL, EPIE, PIE.
+   **Data description:** A merger of everal previous datasets (MAGPIE, IMIL, EPIE, PIE, CCT, PETCI, and more.
 
 
 
