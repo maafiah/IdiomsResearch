@@ -1,7 +1,7 @@
-# Idioms Research repository
+# Idioms Research Datasets Inventory
 
 A listing of idioms datasets, with links to data and to the original research papers.
-This listing is intended for promoting research on idiomatic expressions.  
+This 'inventory' is intended for promoting research on idiomatic expressions.  
 
 For: linguistics, psycholinguistics, computational linguistics, education.
 
@@ -23,7 +23,7 @@ place reference to the paper here.
 
 
 - **<code style="color: red;">Libben&Titone 2008</code>**  
-   **Article:** Libben, M.R. &Titone, D.A. (2008).The multidetermined nature of idiom processing. [Memory & Cognition, 36, 1103–1121.](https://link.springer.com/article/10.3758/MC.36.6.1103)  
+   **Article:** Libben, M.R., and Titone, D.A. (2008).The multidetermined nature of idiom processing. [Memory & Cognition, 36, 1103–1121.](https://link.springer.com/article/10.3758/MC.36.6.1103)  
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
 [Direct link to zip file](https://static-content.springer.com/esm/art%3A10.3758%2FMC.36.6.1103/MediaObjects/Libben-MC-2008.zip)     
    **Languages of data:** English  
@@ -31,7 +31,7 @@ place reference to the paper here.
    **Number of idioms:** 210
 
 - **<code style="color: red;">Tabossi.et.al 2011</code>**  
-   **Article:** Tabossi, P., Arduino, L., & Fanari, R. (2011). Descriptive norms for 245 Italian idiomatic expressions. [Behavior Research Methods, 43, 110–123.](https://link.springer.com/article/10.3758/s13428-010-0018-z)  
+   **Article:** Tabossi, P., Arduino, L., and Fanari, R. (2011). Descriptive norms for 245 Italian idiomatic expressions. [Behavior Research Methods, 43, 110–123.](https://link.springer.com/article/10.3758/s13428-010-0018-z)  
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
 Direct links: [norms xls file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-010-0018-z/MediaObjects/13428_2010_18_MOESM1_ESM.xls), [syntax norms xls file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-010-0018-z/MediaObjects/13428_2010_18_MOESM2_ESM.xls), [readme doc file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-010-0018-z/MediaObjects/13428_2010_18_MOESM3_ESM.doc)    
    **Languages of data:** Italian  
@@ -39,7 +39,7 @@ Direct links: [norms xls file](https://static-content.springer.com/esm/art%3A10.
    **Number of idioms:** 245
 
 - **<code style="color: red;">Bonin.et.al 2013</code>**  
-   **Article:** Bonin, P., Méot, A., & Bugaiska, A. (2013). Norms and comprehension times for 305 French idiomatic expressions. [Behavior Research Methods, 45, 1259–1271](https://link.springer.com/article/10.3758/s13428-013-0331-4).  
+   **Article:** Bonin, P., Méot, A., and Bugaiska, A. (2013). Norms and comprehension times for 305 French idiomatic expressions. [Behavior Research Methods, 45, 1259–1271](https://link.springer.com/article/10.3758/s13428-013-0331-4).  
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
 Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-013-0331-4/MediaObjects/13428_2013_331_MOESM1_ESM.docx), [xls file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-013-0331-4/MediaObjects/13428_2013_331_MOESM2_ESM.xls).     
    **Languages of data:** French  
@@ -47,7 +47,7 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Number of idioms:** 305
 
 - **<code style="color: red;">PANIG</code>**  
-   **Article:** Citron, F.M.M., Cacciari, V., Kucharski, M., Beck, L., Conrad M., & Jacobs, A.M. (2016). When emotions are expressed figuratively: Psycholinguistic and Affective Norms of 619 Idioms for German. [Behavior Research Methods, 48, 91–111](https://link.springer.com/article/10.3758/s13428-015-0581-4). \
+   **Article:** Citron, F.M.M., Cacciari, V., Kucharski, M., Beck, L., Conrad M., and Jacobs, A.M. (2016). When emotions are expressed figuratively: Psycholinguistic and Affective Norms of 619 Idioms for German. [Behavior Research Methods, 48, 91–111](https://link.springer.com/article/10.3758/s13428-015-0581-4). \
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
 [Direct link to XLS file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-015-0581-4/MediaObjects/13428_2015_581_MOESM1_ESM.xls)  
    **Languages of data:** German  
@@ -55,14 +55,14 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Number of idioms:** 619
 
 - **<code style="color: red;">Chinese idioms</code>**  
-   **Article:** Li, D., Zhan, Y., & Wang, X. (2016). Descriptive norms for 350 Chinese idioms with seven syntactic structures (2016). [Behavior Research Methods, 48, 1678–1693](https://link.springer.com/article/10.3758/s13428-015-0692-y).  
+   **Article:** Li, D., Zhan, Y., and Wang, X. (2016). Descriptive norms for 350 Chinese idioms with seven syntactic structures (2016). [Behavior Research Methods, 48, 1678–1693](https://link.springer.com/article/10.3758/s13428-015-0692-y).  
    **Data:** Idioms are listed in the appendix of the article. Quantitative data is not available. 
    **Languages of data:** Chinese  
    **Dimensions annotated:** knowledge, familiarity, subjective frequency, age of acquisition, predictability, literality, and compositionality. \
    **Number of idioms:** 350.
 
 - **<code style="color: red;">Going to town</code>**  
-   **Article:**  Bulkes, N., & Tanner, D.(2017). “Going to town”: Large-scale norming and statistical analysis of 870 American English idioms. [Behavior Research Methods, 49, 772–783](https://link.springer.com/article/10.3758/s13428-016-0747-8). \
+   **Article:**  Bulkes, N., and Tanner, D.(2017). “Going to town”: Large-scale norming and statistical analysis of 870 American English idioms. [Behavior Research Methods, 49, 772–783](https://link.springer.com/article/10.3758/s13428-016-0747-8). \
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
 [Direct link to XLS file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-016-0747-8/MediaObjects/13428_2016_747_MOESM1_ESM.xlsx)  
    **Languages of data:** English  
@@ -70,14 +70,14 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Number of idioms:** 870.
 
 - **<code style="color: red;">Nordmann&Jambazova 2017</code>**  
-   **Article:** Nordmann, E. & Jambazova A.A. (2017). Normative data for idiomatic expressions. [Behavior Research Methods, 49,  198–215](https://link.springer.com/article/10.3758/s13428-016-0705-5).  
+   **Article:** Nordmann, E., and Jambazova A.A. (2017). Normative data for idiomatic expressions. [Behavior Research Methods, 49,  198–215](https://link.springer.com/article/10.3758/s13428-016-0705-5).  
   **Data:** Data is available from [OSF repository](https://osf.io/igqyn/).  
   **Languages of data:** Bulgarian and English.    
   **Dimensions annotated:** familiarity, compositionality, litrality, etc.    
   **Number of idioms:** 90 Bulgarian idioms in study 1, 100 English idioms in study 2.
 
 - **<code style="color: red;">Bonin.et.al 2018</code>**  
-   **Article:** Bonin, P., Méot, A., Boucheix, J.-M., & Bugaiska, A.  (2018). Psycholinguistic norms for 320 fixed expressions (idioms and proverbs) in French. [Quarterly Journal of Experimental Psychology, 71(5), 1057-1069](https://doi.org/10.1080/17470218.2017.1310269).   
+   **Article:** Bonin, P., Méot, A., Boucheix, J.-M., and Bugaiska, A.  (2018). Psycholinguistic norms for 320 fixed expressions (idioms and proverbs) in French. [Quarterly Journal of Experimental Psychology, 71(5), 1057-1069](https://doi.org/10.1080/17470218.2017.1310269).   
    **Data:** Data is available as supplemental material to the article. Direct links: [instructions](https://journals.sagepub.com/doi/suppl/10.1080/17470218.2017.1310269/suppl_file/qje-std_16-427.r1-supplemental_material_a-rating_instructions.docx), [data in xls file](https://journals.sagepub.com/doi/suppl/10.1080/17470218.2017.1310269/suppl_file/qje-std_16-427.r1-supplemental_material_b.xls), [code docx file](https://journals.sagepub.com/doi/suppl/10.1080/17470218.2017.1310269/suppl_file/qje-std_16-427.r1-supplemental_material_c.docx).    
    **Languages of data:** French   
    **Dimensions annotated:** knowledge, predictability, literality, compositionality, subjective and objective frequency, familiarity, age of acquisition (AoA) and length.   
@@ -138,10 +138,24 @@ expressions: Subjective judgments you can bank on. [Frontiers in Psychology, 10,
 ## Data sets from computational linguistics <a name="compling">
 Such data sets typically include annotations. The following list is arranged in chronological order.
 
+
+- **<code style="color: green;">Phraseo-Lex</code>**  
+  **Article:** Dormeyer R., and Fischer I. (1998). Building Lexicons out of a Database for Idioms. [LREC 1998](http://www2.informatik.uni-erlangen.de/publication/download/lrec.pdf).  
+  **Data:** Not available.   
+  **Languages of data:** German.     
+   **Data description:** German verbal idioms (types), with linguistic annotations.   
+
+- **<code style="color: green;">Berlin Idiom Project</code>**  
+   **Article:** Fellbaum C., and Geyken, A. (2005). Transforming a Corpus Into a Lexical Resource - the Berlin Idiom Project. [Revue française de linguistique
+appliquée](https://doi.org/10.3917/rfla.102.62).   
+   **Data:** Not available.    
+   **Languages of data:** German.  
+   **Data description:** 500 idioms (types) with linguistic annotations .   
+
 - **<code style="color: green;">VNC Tokens</code>**  
    **Article:** Cook, P., Fazly, A., and Stevenson, S.  (2008). The VNC-Tokens Dataset. [Proceedings of the LREC Workshop on Towards a Shared Task for
 Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/workshops/W20_Proceedings.pdf).   
-  See also Fazly, A., Cook, P., & Stevenson, S. (2009). Unsupervised Type and Token Identification of Idiomatic Expressions. [Computational Linguistics](https://aclanthology.org/J09-1005/)  
+  See also Fazly, A., Cook, P., and Stevenson, S. (2009). Unsupervised Type and Token Identification of Idiomatic Expressions. [Computational Linguistics](https://aclanthology.org/J09-1005/)  
    **Data:** Data used to be available from Paul Cook's site.    
    **Languages of data:** English.  
    **Data description:** "2984 English verb–noun combination usages (tokens) annotated as to whether they are literal or idiomatic." The dataset contains idiomatic phrases and pointers to XML files of the BNC-XML edition where the full textual context can be found.   
@@ -153,7 +167,7 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data description:** 78 idioms (types), 5836 instances from BNC annotated as y/n idiomatic.
 
 - **<code style="color: green;">Compositionality in Compound Nouns</code>**   
-   **Article:** Reddy, S., McCarthy, D., & Manandhar, S. (2011). An Empirical Study on Compositionality in Compound Nouns. [Proceedings of the International Joint Conference on Natural Language Processing 2011 (IJCNLP-2011)](https://aclanthology.org/I11-1024/).  
+   **Article:** Reddy, S., McCarthy, D., and Manandhar, S. (2011). An Empirical Study on Compositionality in Compound Nouns. [Proceedings of the International Joint Conference on Natural Language Processing 2011 (IJCNLP-2011)](https://aclanthology.org/I11-1024/).  
    **Data:**  Available from [this page](http://www.dianamccarthy.co.uk/downloads.html), [direct link](http://www.dianamccarthy.co.uk/files/ijcnlp_compositionality_data.tgz).  
    **Languages of data:** English.  
    **Data description:** 90 noun-noun compounds.
@@ -166,56 +180,56 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data description:** Two subtasks: allwords and lexical sample. For 'allwords': train set (1114), dev set (342), test set (518 examples). For lexical sample: train set (1424), dev set (358), test set (594 examples).    
 
 - **<code style="color: green;">IDIOMENT</code>**  
-   **Article:** Williams, L., Bannister, C., Arribas-Ayllon, M., Preece, A., & Spasić, I. (2015) The role of idioms in sentiment analysis. [Expert Systems with Applications, 42(21)](https://www.sciencedirect.com/science/article/pii/S0957417415003759).   
+   **Article:** Williams, L., Bannister, C., Arribas-Ayllon, M., Preece, A., and Spasić, I. (2015) The role of idioms in sentiment analysis. [Expert Systems with Applications, 42(21)](https://www.sciencedirect.com/science/article/pii/S0957417415003759).   
     Spasić, I., Williams, L., & Buerki, A. (2017) Idiom-based features in sentiment analysis: Cutting the Gordian knot. [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/document/8226982).   
    **Data:**  Available from the Cardiff University [project page](https://users.cs.cf.ac.uk/I.Spasic/idioment/)  
    **Languages of data:** English.  
    **Data description:** Idioms annotated with sentiment polarity. 2521 sentences.
 
 - **<code style="color: green;">Idiom substitution</code>**   
-   **Article:** Liu, C., & Hwa, R. (2016). Phrasal Substitution of Idiomatic Expressions. [Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2018)](https://aclanthology.org/N16-1040/).    
+   **Article:** Liu, C., and Hwa, R. (2016). Phrasal Substitution of Idiomatic Expressions. [Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2018)](https://aclanthology.org/N16-1040/).    
    **Data:**  Available from [Github site](https://github.com/liucs1986/idiom_corpus).  
    **Languages of data:** English.  
    **Data description:** 172 idioms in sentence context.
 
 - **<code style="color: green;">Idiom paraphrases</code>**   
-   **Article:** Pershina, M., He, Y., & Grishman, R. (2016). Idiom Paraphrases: Seventh Heaven vs Cloud Nine. [Proceedings of the First Workshop on Linking Computational Models of Lexical, Sentential and Discourse-level Semantics](https://aclanthology.org/W15-2709/).  
+   **Article:** Pershina, M., He, Y., and Grishman, R. (2016). Idiom Paraphrases: Seventh Heaven vs Cloud Nine. [Proceedings of the First Workshop on Linking Computational Models of Lexical, Sentential and Discourse-level Semantics](https://aclanthology.org/W15-2709/).  
    **Data:**  Available from [Github project](https://github.com/masha-p/Idiom_Paraphrases).  
    **Languages of data:** English.  
    **Data description:** 2432 different idioms and their descriptions.
 
 - **<code style="color: green;">CCT</code>**   
-   **Article:** Jiang, Z., Zhang, B., Huang, L., Ji, H. (2018). Chengyu Cloze Test. [Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications](https://aclanthology.org/W18-0516/).  
+   **Article:** Jiang, Z., Zhang, B., Huang, L., and Ji, H. (2018). Chengyu Cloze Test. [Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications](https://aclanthology.org/W18-0516/).  
    **Data:**  Available from [Github project](https://github.com/bazingagin/chengyu_data).  
    **Languages of data:** Chinese.  
    **Data description:** 7395 Chengyu form idioms (types)  and 108987 context sentences.
 
 - **<code style="color: green;">IMIL</code>**  (Idiom Mapping for Indian Languages)  
-   **Article:** Agrawal, R., Kumar, V.C., Muralidharan, V., & Sharma, D. (2018). No more beating about the bush : A Step towards Idiom Handling for Indian Language NLP. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1048/).  
+   **Article:** Agrawal, R., Kumar, V.C., Muralidharan, V., and Sharma, D. (2018). No more beating about the bush : A Step towards Idiom Handling for Indian Language NLP. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1048/).  
    **Data:** Data is available on Google drive [folder](https://drive.google.com/drive/folders/1KCOI0Pk5HRef8t1pGEusFUY7ap6yxxFR)  
    **Languages of data:** English idioms and their automated translations to 10 Indian languages.  
    **Data description:** Multiple docx files with idioms and translations.   
 
 - **<code style="color: green;">IdiomTranslationDS</code>**  
-   **Article:** Fadaee, M., Bisazza, A., & Monz, C. (2018). Examining the Tip of the Iceberg: A Data Set for Idiom Translation. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1148/).  
+   **Article:** Fadaee, M., Bisazza, A., and Monz, C. (2018). Examining the Tip of the Iceberg: A Data Set for Idiom Translation. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1148/).  
    **Data:** Data is available the author's github reposiroty [IdiomTranslationDS](https://github.com/marziehf/IdiomTranslationDS)  
    **Languages of data:** English and German idioms and their translations.  
    **Data description:** Sentences automatically extracted from a German-English translation corpus. Annotated for idioms. Originally used for evaluation of MT.   
 
 - **<code style="color: green;">LIdioms</code>**  
-   **Article:** Moussallem, D., Sherif, M.A., Esteves, D., Zampieri, M.,  Ngonga Ngomo, A.-C. (2018). LIDIOMS: A Multilingual Linked Idioms Data Set. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1392/); [Arxiv](https://arxiv.org/abs/1802.08148).  
+   **Article:** Moussallem, D., Sherif, M.A., Esteves, D., Zampieri, M.,  and Ngonga Ngomo, A.-C. (2018). LIDIOMS: A Multilingual Linked Idioms Data Set. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1392/); [Arxiv](https://arxiv.org/abs/1802.08148).  
    **Data:**  [Github project](https://github.com/dice-group/LIdioms);  [old page](https://aksw.org/Projects/LinkedIdioms.html)  
    **Languages of data:** English, German, Italian, Portuguese, and Russian.  
    **Data description:**  A multilingual **RDF** representation of idioms in five languages.
   
 - **<code style="color: green;">Ru_idioms</code>**  
-   **Article:** Aharodnik, K., Feldman, A., & Peng, J. (2018). Designing a Russian idiom-annotated corpus. ACL Anthology. https://aclanthology.org/L18-1402.pdf    
+   **Article:** Aharodnik, K., Feldman, A., and Peng, J. (2018). Designing a Russian idiom-annotated corpus. ACL Anthology. https://aclanthology.org/L18-1402.pdf    
    **Data:**  [Github project](https://github.com/bondfeld/Ru_idioms)  
    **Languages of data:** Russian idioms with English translations.  
    **Data description:** Russian corpus with idioms, each corpus entry contains two paragraphs with one target expressions (idiomatic or literal).
 
 - **<code style="color: green;">SLIDE</code>**  
-   **Article:** Jochim, C., Bonin, F., Bar-Haim, R., & Slonim, N. (2018). SLIDE - a Sentiment Lexicon of Common Idioms. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1379/).    
+   **Article:** Jochim, C., Bonin, F., Bar-Haim, R., and Slonim, N. (2018). SLIDE - a Sentiment Lexicon of Common Idioms. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1379/).    
    **Data:**  Available from [IBM Research](https://research.ibm.com/haifa/dept/vst/debating_data.shtml#Argument_Stance), see SLIDE on that page.  
    **Languages of data:** English.  
    **Data description:** 5000 idioms with sentiment annotation.   
@@ -227,51 +241,51 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data description:**  90 verb-noun and 24 adjective-noun expressions, rated for compositionality. 
 
 - **<code style="color: green;">Cordeiro.et.al 2019</code>**   
-   **Article:**  Cordeiro, S., Villavicencio, A., Idiart, M., Ramisch, C. (2019). Unsupervised Compositionality Prediction of Nominal Compounds.  [Computational Linguistics, 45(1):1–57](https://aclanthology.org/J19-1001/).  
+   **Article:**  Cordeiro, S., Villavicencio, A., Idiart, M., and Ramisch, C. (2019). Unsupervised Compositionality Prediction of Nominal Compounds.  [Computational Linguistics, 45(1):1–57](https://aclanthology.org/J19-1001/).  
    **Data:**  Available from [this site](https://pageperso.lis-lab.fr/%7Ecarlos.ramisch/?page=downloads/compounds).    
    **Languages of data:** English, French, Portuguese.  
    **Data description:**  190/180/180 nominal compounds (types) rated for compositionality. 
 
 - **<code style="color: green;">MAGPIE</code>**  
-   **Article:** Haagsma, H., Bos, J., & Nissim, M. (2020). MAGPIE: A Large Corpus of Potentially Idiomatic Expressions. [Proceedings of the Twelfth Language Resources and Evaluation Conference (LREC 2020)](https://aclanthology.org/2020.lrec-1.35/).  
+   **Article:** Haagsma, H., Bos, J., and Nissim, M. (2020). MAGPIE: A Large Corpus of Potentially Idiomatic Expressions. [Proceedings of the Twelfth Language Resources and Evaluation Conference (LREC 2020)](https://aclanthology.org/2020.lrec-1.35/).  
    **Data:** Data is available at the author's github reposiroty [MAGPIE corpus](https://github.com/hslh/magpie-corpus)  
    **Languages of data:** English  
    **Data description:** The corpus contains 56,622 instances, covering 1,756 different idiom types, in sentence context.  
 
 - **<code style="color: green;">EPIE</code>**  
    **Articles:**  
-  Saxena, P., & Soma, P. (2020). EPIE Dataset: A Corpus For Possible Idiomatic Expressions. 23rd Conference on Text, Speech, and Dialogue (TSD 2020) [Arxiv](https://arxiv.org/abs/2006.09479).   
-  Saxena, P., & Soma, P. (2021). Labelled EPIE: A Dataset for Idiom Sense Disambiguation. [24th Conference on Text, Speech, and Dialogue (TSD 2021)](https://doi.org/10.1007/978-3-030-83527-9_18).   
+  Saxena, P., and Soma, P. (2020). EPIE Dataset: A Corpus For Possible Idiomatic Expressions. 23rd Conference on Text, Speech, and Dialogue (TSD 2020) [Arxiv](https://arxiv.org/abs/2006.09479).   
+  Saxena, P., and Soma, P. (2021). Labelled EPIE: A Dataset for Idiom Sense Disambiguation. [24th Conference on Text, Speech, and Dialogue (TSD 2021)](https://doi.org/10.1007/978-3-030-83527-9_18).   
    **Data:** Data is available at the author's github reposiroty [EPIE corpus](https://github.com/prateeksaxena2809/EPIE_Corpus)  
    **Languages of data:** English  
    **Data description:** The corpus contains idiom instances in sentence context.   
    
 - **<code style="color: green;">PIE</code>**   
-   **Article:**  Zhou, J., Gong, H., Bhat, S. (2021). PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing. [Proceedings of the 17th Workshop on Multiword Expressions (MWE 2021)](https://aclanthology.org/2021.mwe-1.5/).  
+   **Article:**  Zhou, J., Gong, H., and Bhat, S. (2021). PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing. [Proceedings of the 17th Workshop on Multiword Expressions (MWE 2021)](https://aclanthology.org/2021.mwe-1.5/).  
    **Data:**  Available from [Github project](https://github.com/zhjjn/MWE_PIE).    
    **Languages of data:** English    
    **Data description:** 823 idioms (types) with 5170 sentence-pairs  containing those idioms or their literal paraphrases.
 
 - **<code style="color: green;">NCS</code>**   
-   **Article:**  Garcia, M., Kramer Vieira, T.,  Scarton, C., Idiart, M., Villavicencio, A. (2021). Probing for idiomaticity in vector space models. [Proceedings of the 16th EACL (EACL2021)](https://aclanthology.org/2021.eacl-main.310/).  
+   **Article:**  Garcia, M., Kramer Vieira, T.,  Scarton, C., Idiart, M., and Villavicencio, A. (2021). Probing for idiomaticity in vector space models. [Proceedings of the 16th EACL (EACL2021)](https://aclanthology.org/2021.eacl-main.310/).  
    **Data:**  Available from [Github project](https://github.com/marcospln/noun_compound_senses).    
    **Languages of data:** English and Portuguese.      
    **Data description:** 280 and 180 noun compounds (NCs) in English and Portuguese, with 5620/3600 sentences, marked for compositionality.  
 
 - **<code style="color: green;">AStitchInLanguageModels</code>**   
-   **Article:** Tayyar Madabushi, H., Gow-Smith, E., Scarton, C., & Villavicencio, A. (2021). AStitchInLanguageModels: Dataset and Methods for the Exploration of Idiomaticity in Pre-Trained Language Models. [](https://aclanthology.org/2021.findings-emnlp.294/).  
+   **Article:** Tayyar Madabushi, H., Gow-Smith, E., Scarton, C., and Villavicencio, A. (2021). AStitchInLanguageModels: Dataset and Methods for the Exploration of Idiomaticity in Pre-Trained Language Models. [](https://aclanthology.org/2021.findings-emnlp.294/).  
    **Data:**  Available from [Github project](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels).  
    **Languages of data:** English and Portuguese.  
    **Data description:** "sentences containing MWEs manually classified into a fine-grained set of meanings".
 
 - **<code style="color: green;">SemEval 2022 task 2</code>**  (Multilingual Idiomaticity Detection and Sentence Embedding)  
-   **Article:** Tayyar Madabushi, H., Gow-Smith, E., Garcia, M., Scarton, C., Idiart, M., & Villavicencio, A. (2022). SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding. [Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)](https://aclanthology.org/2022.semeval-1.13/).
+   **Article:** Tayyar Madabushi, H., Gow-Smith, E., Garcia, M., Scarton, C., Idiart, M., and Villavicencio, A. (2022). SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding. [Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)](https://aclanthology.org/2022.semeval-1.13/).
    **Data:** [Task website:](https://sites.google.com/view/semeval2022task2-idiomaticity). Data is available from the [Github project](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).    
    **Languages of data:** Galician, Portuguese, English.  
    **Data description:** 5352 instances for English, 2555 for Portuguese, and 776 for Galician. Phrases in short context. This dataset extends the _AStitchInLanguageModels_ dataset.  
 
 - **<code style="color: green;">PIE English</code>**  
-   **Article:** Adewumi, T., Vadoodi, R., Tripathy, A., Nikolaido, K., Liwicki, F., & Liwicki, M. (2022). Potential Idiomatic Expression (PIE)-English: Corpus for Classes of Idioms. [Proceedings of the Thirteenth Language Resources and Evaluation Conference (LREC 2022)](https://aclanthology.org/2022.lrec-1.72/).  
+   **Article:** Adewumi, T., Vadoodi, R., Tripathy, A., Nikolaido, K., Liwicki, F., and Liwicki, M. (2022). Potential Idiomatic Expression (PIE)-English: Corpus for Classes of Idioms. [Proceedings of the Thirteenth Language Resources and Evaluation Conference (LREC 2022)](https://aclanthology.org/2022.lrec-1.72/).  
    **Data:** Data is available at the author's github reposiroty [idesk](https://github.com/tosingithub/idesk)  
    **Languages of data:** English  
    **Data description:** "over 20,100 samples with almost 1,200 cases of idioms (with their meanings) from 10 classes (or senses)."  
@@ -283,7 +297,7 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data description:** English translation (including human translation and machine translation) dataset of Chinese idioms, containing 4310 Chinese idioms and 29936 English translations.
 
 - **<code style="color: green;">IDIOMEM</code>**  
-   **Article:** Haviv, A., Cohen, I., Gidron, J., Schuster, R., Goldberg, Y., & Geva, M. (2023, February 13). Understanding transformer memorization recall through idioms. [arXiv.org](https://arxiv.org/abs/2210.03588).      
+   **Article:** Haviv, A., Cohen, I., Gidron, J., Schuster, R., Goldberg, Y., and Geva, M. (2023, February 13). Understanding transformer memorization recall through idioms. [arXiv.org](https://arxiv.org/abs/2210.03588).      
    **Data:**  [Github project](https://github.com/adihaviv/idiomem/tree/main)  
    **Languages of data:** English.  
    **Data description:** A new dataset that combining multiple existing English idioms datasets with idioms scraped from the website “Education First” (EF).
@@ -293,15 +307,17 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data:**  Available from [Github project](https://github.com/AlexanderProchnow/idem).    
    **Languages of data:** English.    
    **Data description:** 9685 idiom-containing sentences, each sentence is labelled with: (a) the idiom it contains, (b) the definition (meaning) of the idiom, and (c) the predominant emotion conveyed in the sentence, out of 36 emotion types (based on SLIDE dataset).
-  
+
+<!--  
 - **CultureLLM**  
-   **Article:** Li, C., Chen, M., Wang, J., Sitaram, S., & Xie, X. (2024). Culturellm: Incorporating cultural differences into large language models. arXiv.org. (https://arxiv.org/abs/2402.10946)  
+   **Article:** Li, C., Chen, M., Wang, J., Sitaram, S., and Xie, X. (2024). Culturellm: Incorporating cultural differences into large language models. arXiv.org. (https://arxiv.org/abs/2402.10946)  
    **Data:**  [Github project](https://github.com/Scarelette/CultureLLM?tab=readme-ov-file#2-dataset-for-fine-tuning-and-experients)  
    **Languages of data:** Arabic (Ar), Bengali (Bn), Chinese (Zh), English (En, United States), German (De), Korean (Ko), Portuguese (Pt), Spanish (Es), and Turkish (Tr).  
    **Data description:**  59 test sets, covering 9 languages and containing 68,607 test samples. Idioms??
+-->
 
 - **<code style="color: green;">Khoshtab.et.al.2024</code>**  
-   **Article:** Khoshtab, P., Namazifard, D., Masoudi, M., Akhgary, A., Sani, S.M., & Yaghoobzadeh, Y. (2024). Comparative study of multilingual idioms and similes in large language models. [arXiv.org](https://arxiv.org/abs/2410.16461)   
+   **Article:** Khoshtab, P., Namazifard, D., Masoudi, M., Akhgary, A., Sani, S.M., and Yaghoobzadeh, Y. (2024). Comparative study of multilingual idioms and similes in large language models. [arXiv.org](https://arxiv.org/abs/2410.16461)   
    **Data:**  [Github project](https://github.com/namazifard/Multilingual-Idioms-Similes/tree/main).  
    **Languages of data:** English, Indonesian, Hindi, Swahili, Yoruba, Kannada, Sundanese, Javanese, Mandarin Chinese, Bengali, German, and Russian.  
    **Data description:** Multiple datasets with idioms and smiles of different languages. Samples of idioms are labeled.  
