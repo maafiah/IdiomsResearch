@@ -142,8 +142,8 @@ Such data sets typically include annotations. The following list is arranged in 
    **Article:** Cook, P., Fazly, A., and Stevenson, S.  (2008). The VNC-Tokens Dataset. [Proceedings of the LREC Workshop on Towards a Shared Task for
 Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/workshops/W20_Proceedings.pdf).   
   See also Fazly, A., Cook, P., & Stevenson, S. (2009). Unsupervised Type and Token Identification of Idiomatic Expressions. [Computational Linguistics](https://aclanthology.org/J09-1005/)  
-   **Data:** Data used to be available from   
-   **Languages of data:** English  
+   **Data:** Data used to be available from Paul Cook's site.    
+   **Languages of data:** English.  
    **Data description:** "2984 English verb–noun combination usages (tokens) annotated as to whether they are literal or idiomatic." The dataset contains idiomatic phrases and pointers to XML files of the BNC-XML edition where the full textual context can be found.   
 
 - **<code style="color: green;">IDIX</code>**
