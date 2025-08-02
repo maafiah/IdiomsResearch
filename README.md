@@ -207,7 +207,8 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data:**  [Github project](https://github.com/bondfeld/Ru_idioms)  
    **Languages of data:** Russian idioms with English translations.  
    **Data description:** Russian corpus with idioms, each corpus entry contains two paragraphs with one target expressions (idiomatic or literal).
-- **SLIDE**  
+
+- **<code style="color: green;">SLIDE</code>**  
    **Article:** Jochim, C., Bonin, F., Bar-Haim, R., & Slonim, N. (2018). SLIDE - a Sentiment Lexicon of Common Idioms. [Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)](https://aclanthology.org/L18-1379/).    
    **Data:**  Available from [IBM Research](https://research.ibm.com/haifa/dept/vst/debating_data.shtml#Argument_Stance), see SLIDE on that page.  
    **Languages of data:** English.  
@@ -239,66 +240,68 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English  
    **Data description:** The corpus contains idiom instances in sentence context.   
    
-
-- **PIE**   
+- **<code style="color: green;">PIE</code>**   
    **Article:**  Zhou, J., Gong, H., Bhat, S. (2021). PIE: A Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing. [Proceedings of the 17th Workshop on Multiword Expressions (MWE 2021)](https://aclanthology.org/2021.mwe-1.5/).  
    **Data:**  Available from [Github project](https://github.com/zhjjn/MWE_PIE).    
    **Languages of data:** English    
    **Data description:** 823 idioms (types) with 5170 sentence-pairs  containing those idioms or their literal paraphrases.
 
-- **NCS**   
+- **<code style="color: green;">NCS</code>**   
    **Article:**  Garcia, M., Kramer Vieira, T.,  Scarton, C., Idiart, M., Villavicencio, A. (2021). Probing for idiomaticity in vector space models. [Proceedings of the 16th EACL (EACL2021)](https://aclanthology.org/2021.eacl-main.310/).  
    **Data:**  Available from [Github project](https://github.com/marcospln/noun_compound_senses).    
    **Languages of data:** English and Portuguese.      
    **Data description:** 280 and 180 noun compounds (NCs) in English and Portuguese, with 5620/3600 sentences, marked for compositionality.  
 
-- **AStitchInLanguageModels**   
+- **<code style="color: green;">AStitchInLanguageModels</code>**   
    **Article:** Tayyar Madabushi, H., Gow-Smith, E., Scarton, C., & Villavicencio, A. (2021). AStitchInLanguageModels: Dataset and Methods for the Exploration of Idiomaticity in Pre-Trained Language Models. [](https://aclanthology.org/2021.findings-emnlp.294/).  
    **Data:**  Available from [Github project](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels).  
    **Languages of data:** English and Portuguese.  
    **Data description:** "sentences containing MWEs manually classified into a fine-grained set of meanings".
 
-- **SemEval 2022 task 2**  (Multilingual Idiomaticity Detection and Sentence Embedding)  
+- **<code style="color: green;">SemEval 2022 task 2</code>**  (Multilingual Idiomaticity Detection and Sentence Embedding)  
    **Article:** Tayyar Madabushi, H., Gow-Smith, E., Garcia, M., Scarton, C., Idiart, M., & Villavicencio, A. (2022). SemEval-2022 Task 2: Multilingual Idiomaticity Detection and Sentence Embedding. [Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)](https://aclanthology.org/2022.semeval-1.13/).
    **Data:** [Task website:](https://sites.google.com/view/semeval2022task2-idiomaticity). Data is available from the [Github project](https://github.com/H-TayyarMadabushi/SemEval_2022_Task2-idiomaticity).    
    **Languages of data:** Galician, Portuguese, English.  
    **Data description:** 5352 instances for English, 2555 for Portuguese, and 776 for Galician. Phrases in short context. This dataset extends the _AStitchInLanguageModels_ dataset.  
 
-
-- **PIE English**  
+- **<code style="color: green;">PIE English</code>**  
    **Article:** Adewumi, T., Vadoodi, R., Tripathy, A., Nikolaido, K., Liwicki, F., & Liwicki, M. (2022). Potential Idiomatic Expression (PIE)-English: Corpus for Classes of Idioms. [Proceedings of the Thirteenth Language Resources and Evaluation Conference (LREC 2022)](https://aclanthology.org/2022.lrec-1.72/).  
    **Data:** Data is available at the author's github reposiroty [idesk](https://github.com/tosingithub/idesk)  
    **Languages of data:** English  
    **Data description:** "over 20,100 samples with almost 1,200 cases of idioms (with their meanings) from 10 classes (or senses)."  
    
-
-- **PETCI**  
+- **<code style="color: green;">PETCI</code>**  
    **Article:** Tang, K. (2022). Petci: A parallel English translation dataset of Chinese idioms. arXiv.org. https://arxiv.org/abs/2202.09509     
    **Data:**  [Github project](https://github.com/kenantang/petci)  
    **Languages of data:** Chinese idioms with English translations.  
    **Data description:** English translation (including human translation and machine translation) dataset of Chinese idioms, containing 4310 Chinese idioms and 29936 English translations.
 
-
-- **IDIOMEM**  
+- **<code style="color: green;">IDIOMEM</code>**  
    **Article:** Haviv, A., Cohen, I., Gidron, J., Schuster, R., Goldberg, Y., & Geva, M. (2023, February 13). Understanding transformer memorization recall through idioms. [arXiv.org](https://arxiv.org/abs/2210.03588).      
    **Data:**  [Github project](https://github.com/adihaviv/idiomem/tree/main)  
    **Languages of data:** English.  
    **Data description:** A new dataset that combining multiple existing English idioms datasets with idioms scraped from the website “Education First” (EF).
 
+- **<code style="color: green;">IDEM</code>**   
+   **Article:** Prochnow, A., Bendler, J.E., Lange, C., Tzavellos, F.I., Göritzer, B.M., ten Thij, M., and Batista-Navarro, R. (2024). IDEM: The IDioms with EMotions Dataset for Emotion Recognition. [LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.752/).  
+   **Data:**  Available from [Github project](https://github.com/AlexanderProchnow/idem).    
+   **Languages of data:** English.    
+   **Data description:** 9685 idiom-containing sentences, each sentence is labelled with: (a) the idiom it contains, (b) the definition (meaning) of the idiom, and (c) the predominant emotion conveyed in the sentence, out of 36 emotion types (based on SLIDE dataset).
+  
 - **CultureLLM**  
    **Article:** Li, C., Chen, M., Wang, J., Sitaram, S., & Xie, X. (2024). Culturellm: Incorporating cultural differences into large language models. arXiv.org. (https://arxiv.org/abs/2402.10946)  
    **Data:**  [Github project](https://github.com/Scarelette/CultureLLM?tab=readme-ov-file#2-dataset-for-fine-tuning-and-experients)  
    **Languages of data:** Arabic (Ar), Bengali (Bn), Chinese (Zh), English (En, United States), German (De), Korean (Ko), Portuguese (Pt), Spanish (Es), and Turkish (Tr).  
    **Data description:**  59 test sets, covering 9 languages and containing 68,607 test samples. Idioms??
 
-- **Khoshtab.et.al.2024**  
+- **<code style="color: green;">Khoshtab.et.al.2024</code>**  
    **Article:** Khoshtab, P., Namazifard, D., Masoudi, M., Akhgary, A., Sani, S.M., & Yaghoobzadeh, Y. (2024). Comparative study of multilingual idioms and similes in large language models. [arXiv.org](https://arxiv.org/abs/2410.16461)   
    **Data:**  [Github project](https://github.com/namazifard/Multilingual-Idioms-Similes/tree/main).  
    **Languages of data:** English, Indonesian, Hindi, Swahili, Yoruba, Kannada, Sundanese, Javanese, Mandarin Chinese, Bengali, German, and Russian.  
    **Data description:** Multiple datasets with idioms and smiles of different languages. Samples of idioms are labeled.  
 
-- **IdiomKB**   
-   **Article:** Shuang Li, Jiangjie Chen, Siyu Yuan, Xinyi Wu, Hao Yang, Shimin Tao, Yanghua Xiao (2024). Translate meanings, not just words: IdiomKB's role in optimizing idiomatic translation with language models. [AAAI'24](https://dl.acm.org/doi/10.1609/aaai.v38i17.29817).  
+- **<code style="color: green;">IdiomKB</code>**   
+   **Article:** Li, S., Chen, J., Yuan, S., Wu, X., Yang, H., Tao, S., and Xiao, Y. (2024). Translate meanings, not just words: IdiomKB's role in optimizing idiomatic translation with language models. [AAAI'24](https://dl.acm.org/doi/10.1609/aaai.v38i17.29817).  
    **Data:**  Available from [Github project](https://github.com/lishuang-w/IdiomKB).    
    **Languages of data:** English, Chinese and Japanese.    
    **Data description:** A merger of everal previous datasets (MAGPIE, IMIL, EPIE, PIE, CCT, PETCI, and more.
