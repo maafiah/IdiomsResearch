@@ -1,20 +1,21 @@
 # Idioms Research Datasets Inventory
 
-A listing of idioms datasets, with links to data and to the original research papers.
-This 'inventory' is intended for promoting research on idiomatic expressions.  
+## Overview
 
+
+A listing of idioms datasets, with links to data and to the original research papers.  
+This 'inventory' is intended for promoting research on idiomatic expressions.  
 For: linguistics, psycholinguistics, computational linguistics, education.
 
-## Overview
-A repository of data and links for research on idiomatic expressions. There are datasets in various languages.
-The listing is split into two lists: datsets from psycholonguistics and datsets from computational lingustics.
+There are datasets in various languages.  
+The listing is split into two parts: datasets from psycholinguistics and datasets from computational lingustics.  
 Dataset nicknames are used if available.
 
 [Psycholinguistics data](#psycling)  |  [Computational linguistics data](#compling)
 
 <!-- This is a comment, it will not be included -->
 
-## Referenece
+## Reference
 place reference to the paper here.
 
 ---  
@@ -160,8 +161,8 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English.  
    **Data description:** "2984 English verb–noun combination usages (tokens) annotated as to whether they are literal or idiomatic." The dataset contains idiomatic phrases and pointers to XML files of the BNC-XML edition where the full textual context can be found.   
 
-- **<code style="color: green;">IDIX</code>**
-  **Article:** Sporleder, C., Li, L., Gorinski, P., and Koch, X. (2010). Idioms in context: The IDIX corpus. [LREC 2010](https://aclanthology.org/L10-1425/).
+- **<code style="color: green;">IDIX</code>**  
+  **Article:** Sporleder, C., Li, L., Gorinski, P., and Koch, X. (2010). Idioms in context: The IDIX corpus. [LREC 2010](https://aclanthology.org/L10-1425/).  
    **Data:** not available.   
    **Languages of data:** English  
    **Data description:** 78 idioms (types), 5836 instances from BNC annotated as y/n idiomatic.
