@@ -1,7 +1,7 @@
 # Idioms Research repository
 
 A listing of idioms datasets, with links to data and to the original research papers.
-This listing is intended for promoting researach on idiomatic expressions.  
+This listing is intended for promoting research on idiomatic expressions.  
 
 For: linguistics, psycholinguistics, computational linguistics, education.
 
@@ -146,6 +146,12 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English  
    **Data description:** "2984 English verb–noun combination usages (tokens) annotated as to whether they are literal or idiomatic." The dataset contains idiomatic phrases and pointers to XML files of the BNC-XML edition where the full textual context can be found.   
 
+- **<code style="color: green;">IDIX</code>**
+  **Article:** Sporleder, C., Li, L., Gorinski, P., and Koch, X. (2010). Idioms in context: The IDIX corpus. [LREC 2010](https://aclanthology.org/L10-1425/).
+   **Data:** not available.   
+   **Languages of data:** English  
+   **Data description:** 78 idioms (types), 5836 instances from BNC annotated as y/n idiomatic.
+
 - **<code style="color: green;">Compositionality in Compound Nouns</code>**   
    **Article:** Reddy, S., McCarthy, D., & Manandhar, S. (2011). An Empirical Study on Compositionality in Compound Nouns. [Proceedings of the International Joint Conference on Natural Language Processing 2011 (IJCNLP-2011)](https://aclanthology.org/I11-1024/).  
    **Data:**  Available from [this page](http://www.dianamccarthy.co.uk/downloads.html), [direct link](http://www.dianamccarthy.co.uk/files/ijcnlp_compositionality_data.tgz).  
@@ -153,7 +159,7 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data description:** 90 noun-noun compounds.
 
 - **<code style="color: green;">SemEval-2013 task 5b</code>**  (Semantic Compositionality in Context)  
-   **Article:** Korkontzelos, I., Zesch, T., Zanzotto, F.M., and Biemann, C. (2013). SemEval-2013 Task 5: Evaluating Phrasal Semantics. [Second Joint Conference on Lexical and Computational Semantics (*SEM)](https://aclanthology.org/S13-2007/).
+   **Article:** Korkontzelos, I., Zesch, T., Zanzotto, F.M., and Biemann, C. (2013). SemEval-2013 Task 5: Evaluating Phrasal Semantics. [Second Joint Conference on Lexical and Computational Semantics (*SEM)](https://aclanthology.org/S13-2007/).  
    **Task**  "decide whether a target phrase is used in its literal or figurative meaning in a given context".    
    **Data:** Original 2013 repository is not available. (use copy?)    
    **Languages of data:** English.  
