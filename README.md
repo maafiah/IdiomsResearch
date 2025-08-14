@@ -238,7 +238,7 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
 - **<code style="color: green;">Senaldi 2019</code>**   
    **Article:**  Senaldi, M., (2019). Working both sides of the street: computational and psycholinguistic investigations on idiomatic variability. [PhD thesis](https://ricerca.sns.it/handle/11384/86016).  
    **Data:**  Available as appendices in the manuscript.    
-   **Languages of data:** Italian.
+   **Languages of data:** Italian.  
    **Data description:**  90 verb-noun and 24 adjective-noun expressions, rated for compositionality. 
 
 - **<code style="color: green;">Cordeiro.et.al 2019</code>**   
