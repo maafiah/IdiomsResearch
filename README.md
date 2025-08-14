@@ -62,8 +62,18 @@ Direct links to [docx file](https://static-content.springer.com/esm/art%3A10.375
    **Dimensions annotated:** knowledge, familiarity, subjective frequency, age of acquisition, predictability, literality, and compositionality. \
    **Number of idioms:** 350.
 
+
+- **<code style="color: red;">English-German Database of Idiom Norms (DIN)</code>**  
+   **Article:**  Beck, S.D. and Weber, A. (2016). Biligual and Monolingual Idiom Processing Is Cut from the Same Cloth: The Role of the L1 in Literal and Figurative Meaning Activation. [Frontiers in Psychology, 7:1350](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01350/full).  
+  See also Beck, S.D. (2020) Native and Non-native Idiom Processing:
+Same Difference. [Dissertation](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/104870).  
+   **Data:** Available from [university website](https://uni-tuebingen.de/en/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/englisches-seminar/sections/english-linguistics/lehrstuhl-prof-dr-andrea-weber/staff/dr-sara-d-beck/din/).  
+   **Languages of data:** English and German.      
+   **Dimensions annotated:** meaningfulness, familiarity, literality, decomposability. Also for English - ratings by L1 and L2 speakers.   
+   **Number of idioms:** 300 (matching in each language).  
+
 - **<code style="color: red;">Going to town</code>**  
-   **Article:**  Bulkes, N., and Tanner, D.(2017). “Going to town”: Large-scale norming and statistical analysis of 870 American English idioms. [Behavior Research Methods, 49, 772–783](https://link.springer.com/article/10.3758/s13428-016-0747-8). \
+   **Article:**  Bulkes, N., and Tanner, D. (2017). “Going to town”: Large-scale norming and statistical analysis of 870 American English idioms. [Behavior Research Methods, 49, 772–783](https://link.springer.com/article/10.3758/s13428-016-0747-8). \
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
 [Direct link to XLS file](https://static-content.springer.com/esm/art%3A10.3758%2Fs13428-016-0747-8/MediaObjects/13428_2016_747_MOESM1_ESM.xlsx)  
    **Languages of data:** English  
