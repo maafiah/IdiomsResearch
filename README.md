@@ -317,6 +317,12 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** Chinese idioms with English translations.  
    **Data description:** English translation (including human translation and machine translation) dataset of Chinese idioms, containing 4310 Chinese idioms and 29936 English translations.
 
+- **<code style="color: green;">ID10M</code>**  
+   **Article:** Tedeschi, S., Martelli, F., Navigli, R. (2022). Idiom Identification in 10 Languages. [Findings of the Association for Computational Linguistics: NAACL 2022](https://aclanthology.org/2022.findings-naacl.208).       
+   **Data:**  [Github project](https://github.com/Babelscape/ID10M)  
+   **Languages of data:**  English, German, Italian, Spanish.  
+   **Data description:** Automatically created Silver data: in 10 languages: Chinese, Dutch, English, French, German, Italian, Japanese, Polish, Portuguese, Spanish - 20-30K sentences per langauge. Manually-verified Gold data: only English, German, Italian, Spanish - 200 sentences per language. 
+
 - **<code style="color: green;">IDIOMEM</code>**  
    **Article:** Haviv, A., Cohen, I., Gidron, J., Schuster, R., Goldberg, Y., and Geva, M. (2023, February 13). Understanding transformer memorization recall through idioms. [arXiv.org](https://arxiv.org/abs/2210.03588).      
    **Data:**  [Github project](https://github.com/adihaviv/idiomem/tree/main)  
