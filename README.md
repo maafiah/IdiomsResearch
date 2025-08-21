@@ -349,6 +349,12 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English, Indonesian, Hindi, Swahili, Yoruba, Kannada, Sundanese, Javanese, Mandarin Chinese, Bengali, German, and Russian.  
    **Data description:** Multiple datasets with idioms and smiles of different languages. Samples of idioms are labeled.  
 
+- **<code style="color: green;">IdiomsInCtx-MT</code>**  
+   **Article:** Stap, D., Hasler, E., Byrne, B., Monz, C., Tran K. (2024). The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities. [ACL](https://aclanthology.org/2024.acl-long.336/) [arXiv.org](https://arxiv.org/abs/2405.20089)   
+   **Data:**  [Github project](https://aclanthology.org/2024.acl-long.336/).  
+   **Languages of data:** English, German, Russian.  
+   **Data description:** English-German and English-Russian manual professional translations of sentences with idiomatic expressions. !000 sentences per language pair.  
+
 - **<code style="color: green;">IdiomKB</code>**   
    **Article:** Li, S., Chen, J., Yuan, S., Wu, X., Yang, H., Tao, S., and Xiao, Y. (2024). Translate meanings, not just words: IdiomKB's role in optimizing idiomatic translation with language models. [AAAI'24](https://dl.acm.org/doi/10.1609/aaai.v38i17.29817).  
    **Data:**  Available from [Github project](https://github.com/lishuang-w/IdiomKB).    
