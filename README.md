@@ -145,6 +145,16 @@ expressions: Subjective judgments you can bank on. [Frontiers in Psychology, 10,
    **Dimensions annotated:** familiarity, lexical frequency.   
    **Number of idioms:** 997.
 
+- **<code style="color: red;">DoRI</code>**  
+   **Article:** Gridneva, E.M., Zdorova, N.S., Ivanenko, A.A., Makarova, P.S. & Grabovskaya, M.A. (2025) The Database of Russian Idioms with Standardized Psycho-
+linguistic Parameters (DoRI). Vestnik Tomskogo gosudarstvennogo universiteta. Filologiya – Tomsk State University Journal of Philology. 94. рр. 67–91. (In Russian).
+doi: 10.17223/19986645/94/4     
+   **Data:** Available in [OSF](https://osf.io/efbyz/?view_only=d2f6cc2e52c04a3d9cf0af2f391e16af).  
+   **Languages of data:** Russian   
+   **Dimensions annotated:** "he objective parameters include frequency of idioms, length (in words and symbols) and type of syntactic structure. The
+subjective parameters were familiarity, occurrence, literality, predictability and place of recognition.".   
+   **Number of idioms:** 376.
+
  ---  
 ## Data sets from computational linguistics <a name="compling">
 Such data sets typically include annotations. The following list is arranged in chronological order.
