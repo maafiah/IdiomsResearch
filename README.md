@@ -4,7 +4,7 @@
 
 
 A listing of idioms datasets, with links to data and to the original research papers.  
-This 'inventory' is intended for promoting research on idiomatic expressions.  
+This inventory is intended for promoting research on idiomatic expressions.  
 For: linguistics, psycholinguistics, computational linguistics, education.
 
 There are datasets in various languages.  
