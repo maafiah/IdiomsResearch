@@ -157,7 +157,7 @@ linguistic Parameters (DoRI). Vestnik Tomskogo gosudarstvennogo universiteta. Fi
 doi: 10.17223/19986645/94/4     
    **Data:** Available in [OSF](https://osf.io/efbyz/?view_only=d2f6cc2e52c04a3d9cf0af2f391e16af).  
    **Languages of data:** Russian   
-   **Dimensions annotated:** "he objective parameters include frequency of idioms, length (in words and symbols) and type of syntactic structure. The
+   **Dimensions annotated:** "the objective parameters include frequency of idioms, length (in words and symbols) and type of syntactic structure. The
 subjective parameters were familiarity, occurrence, literality, predictability and place of recognition.".   
    **Number of idioms:** 376.
 
