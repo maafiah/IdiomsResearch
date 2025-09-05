@@ -365,6 +365,6 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Article:** Li, S., Chen, J., Yuan, S., Wu, X., Yang, H., Tao, S., and Xiao, Y. (2024). Translate meanings, not just words: IdiomKB's role in optimizing idiomatic translation with language models. [AAAI'24](https://dl.acm.org/doi/10.1609/aaai.v38i17.29817).  
    **Data:**  Available from [Github project](https://github.com/lishuang-w/IdiomKB).    
    **Languages of data:** English, Chinese and Japanese.    
-   **Data description:** A merger of everal previous datasets (MAGPIE, IMIL, EPIE, PIE, CCT, PETCI, and more.
+   **Data description:** A merger of several previous datasets (MAGPIE, IMIL, EPIE, PIE, CCT, PETCI, and more.
 
 
