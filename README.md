@@ -22,9 +22,15 @@ place reference to the paper here.
 ## Data sets from psycholinguistics
 <a name="psycling"></a>Such data sets typically include normed ratings of idioms on various dimemsions. <br>The following list is arranged in chronological order.
 
+- **<code style="color: red;">Cronk,Lima,Schweigert_1993</code>**  
+   **Article:** Cronk, B.C., Lima, S.D., Schweigert, W.A. (1993). Idioms in Sentences: Effects of Frequency, Literalness, and Familiarity. [Journal of Psycholingustic Research, 22(1)](https://link.springer.com/article/10.1007/BF01068157)  
+  **Data:** Data is available in the appendix in the paper.     
+   **Languages of data:** English  
+   **Dimensions annotated:** familiarity, literal plausibility, frequecy.   
+   **Number of idioms:** 245   
 
 - **<code style="color: red;">Libben&Titone 2008</code>**  
-   **Article:** Libben, M.R., and Titone, D.A. (2008).The multidetermined nature of idiom processing. [Memory & Cognition, 36, 1103–1121.](https://link.springer.com/article/10.3758/MC.36.6.1103)  
+   **Article:** Libben, M.R., and Titone, D.A. (2008). The multidetermined nature of idiom processing. [Memory & Cognition, 36, 1103–1121.](https://link.springer.com/article/10.3758/MC.36.6.1103)  
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
 [Direct link to zip file](https://static-content.springer.com/esm/art%3A10.3758%2FMC.36.6.1103/MediaObjects/Libben-MC-2008.zip)     
    **Languages of data:** English  
