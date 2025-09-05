@@ -16,7 +16,8 @@ Dataset nicknames are used if available.
 <!-- This is a comment, it will not be included -->
 
 ## Reference
-place reference to the paper here.
+Our paper, *A Survey of Idiom Datasets for Psycholinguistic and Computational Research* (2025) is on [arXiv](https://arxiv.org/abs/2508.11828). 
+To be presented at KONVENS 2025 conference.
 
 ---  
 ## Data sets from psycholinguistics
