@@ -108,6 +108,14 @@ Same Difference. [Dissertation](https://publikationen.uni-tuebingen.de/xmlui/han
    **Dimensions annotated:** knowledge, predictability, literality, compositionality, subjective and objective frequency, familiarity, age of acquisition (AoA) and length.   
    **Number of idioms:** 160 idioms and 160 proverbs.
 
+- **<code style="color: red;">Mancuso & Laudanna 2019</code>**  
+   **Article:** Mancuso, A., and Laudanna, A. (2019). Objective Frequency Values of Canonical and Syntactically Modified Idioms: Preliminary Normative Data. [CLiC-it 2019 - Italian Conference on Computational Linguistics](https://ceur-ws.org/Vol-2481/paper40.pdf).   
+   **Data:** Not Available.  
+   **Languages of data:** Italian.   
+   **Dimensions annotated:** frequency of idioms in canonical and modified forms, frequency of component words.   
+   **Number of idioms:** 124.
+
+
 - **<code style="color: red;">Dutch idioms</code>**  
    **Article:** Hubers, F., Cucchiarini, C., Strik, H., and Dijkstra, T. (2019). Normative data of Dutch idiomatic
 expressions: Subjective judgments you can bank on. [Frontiers in Psychology, 10, 1075](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01075/full).   
