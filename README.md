@@ -38,6 +38,13 @@ To be presented at KONVENS 2025 conference.
    **Dimensions annotated:** familiarity, meaningfulness, literal plausibility, decomposability   
    **Number of idioms:** 210
 
+- **<code style="color: red;">Callies 2009</code>**  
+   **Article:** Callies, S. (2009). Descriptions de 300 expressions idiomatiques. [L’Année psychologique, 109(3), 463-508.](https://doi.org/10.3917/anpsy.093.0463) (In French)    
+  **Data:** Data is available in the paper.     
+   **Languages of data:** French  
+   **Dimensions annotated:** familiarity, knowledge, literality, compositionality, predictability.   
+   **Number of idioms:** 300   
+
 - **<code style="color: red;">Tabossi.et.al 2011</code>**  
    **Article:** Tabossi, P., Arduino, L., and Fanari, R. (2011). Descriptive norms for 245 Italian idiomatic expressions. [Behavior Research Methods, 43, 110–123.](https://link.springer.com/article/10.3758/s13428-010-0018-z)  
   **Data:** Data is available in the Electronic Supplementary Material (ESM) section of the publication web page.
@@ -144,13 +151,13 @@ expressions: Subjective judgments you can bank on. [Frontiers in Psychology, 10,
    **Dimensions annotated:** arousal, valence, concreteness, imageability. Compares annotations done by English L1 and L2 speakers.  
    **Number of idioms:** 210 (from Libben and Titone, 2008).   
 
-<!---
+<!--
 - **<code style="color: red;">Bressler.et.al 2025</code>**  
    **Article:** Bressler, M., Mangiaterra, V., Canal, P., Frau, F., Luciani, F., Scalingi, B., Pietro, C. B. di S., Battaglini, C., Pompei, C., Romeo, F., Bischetti, L., and Bambini, V. (2025). Figurative archive: An open dataset and web-based application for the study of metaphor. arXiv.org. https://arxiv.org/abs/2503.00444.   
    **Data:** Available in the [Zenodo repository](https://doi.org/10.5281/zenodo.14924803) and the [web interface](https://neplab.shinyapps.io/FigurativeArchive/) also at [OSF repository](https://osf.io/cxpzj/).  
    **Languages of data:** Italian   
    **Dimensions annotated:** familiarity, lexical frequency.   
-   **Number of idioms:** 997. --->
+   **Number of idioms:** 997. -->
 
 - **<code style="color: red;">DoRI</code>**  
    **Article:** Gridneva, E.M., Zdorova, N.S., Ivanenko, A.A., Makarova, P.S. & Grabovskaya, M.A. (2025) The Database of Russian Idioms with Standardized Psycho-
