@@ -144,13 +144,13 @@ expressions: Subjective judgments you can bank on. [Frontiers in Psychology, 10,
    **Dimensions annotated:** arousal, valence, concreteness, imageability. Compares annotations done by English L1 and L2 speakers.  
    **Number of idioms:** 210 (from Libben and Titone, 2008).   
 
-
+<!---
 - **<code style="color: red;">Bressler.et.al 2025</code>**  
    **Article:** Bressler, M., Mangiaterra, V., Canal, P., Frau, F., Luciani, F., Scalingi, B., Pietro, C. B. di S., Battaglini, C., Pompei, C., Romeo, F., Bischetti, L., and Bambini, V. (2025). Figurative archive: An open dataset and web-based application for the study of metaphor. arXiv.org. https://arxiv.org/abs/2503.00444.   
    **Data:** Available in the [Zenodo repository](https://doi.org/10.5281/zenodo.14924803) and the [web interface](https://neplab.shinyapps.io/FigurativeArchive/) also at [OSF repository](https://osf.io/cxpzj/).  
    **Languages of data:** Italian   
    **Dimensions annotated:** familiarity, lexical frequency.   
-   **Number of idioms:** 997.
+   **Number of idioms:** 997. --->
 
 - **<code style="color: red;">DoRI</code>**  
    **Article:** Gridneva, E.M., Zdorova, N.S., Ivanenko, A.A., Makarova, P.S. & Grabovskaya, M.A. (2025) The Database of Russian Idioms with Standardized Psycho-
