@@ -27,7 +27,7 @@ To be presented at KONVENS 2025 conference.
    **Article:** Cronk, B.C., Lima, S.D., Schweigert, W.A. (1993). Idioms in Sentences: Effects of Frequency, Literalness, and Familiarity. [Journal of Psycholingustic Research, 22(1)](https://link.springer.com/article/10.1007/BF01068157)  
   **Data:** Data is available in the appendix in the paper.     
    **Languages of data:** English  
-   **Dimensions annotated:** familiarity, literal plausibility, frequecy.   
+   **Dimensions annotated:** familiarity, literal plausibility, frequency.   
    **Number of idioms:** 245   
 
 - **<code style="color: red;">Libben&Titone 2008</code>**  
