@@ -117,7 +117,7 @@ expressions: Subjective judgments you can bank on. [Frontiers in Psychology, 10,
    **Number of idioms:** 1252.
 
 - **<code style="color: red;">Chilean Spanish</code>**  
-   **Article:** Góngora, B., Gómez-Lombardi, A. and Ortega González, A. (2022). Descriptive Norms for 1,082 Chilean-Spanish Idiomatic Expressions. [Revista signos, 55(110):1057-1076](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-09342022000301057). Also pfd file on [ResearchGate](https://www.researchgate.net/publication/367081454_Descriptive_Norms_for_1082_Chilean-Spanish_Idiomatic_Expressions) or [Academia.edu](https://www.academia.edu/124252404/Descriptive_Norms_for_1_082_Chilean_Spanish_Idiomatic_Expressions?nav_from=2bda8401-77ae-4976-b17a-aa12c2533c51).   
+   **Article:** Góngora, B., Gómez-Lombardi, A. and Ortega González, A. (2022). Descriptive Norms for 1,082 Chilean-Spanish Idiomatic Expressions. [Revista signos, 55(110):1057-1076](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-09342022000301057). Also pdf file on [ResearchGate](https://www.researchgate.net/publication/367081454_Descriptive_Norms_for_1082_Chilean-Spanish_Idiomatic_Expressions) or [Academia.edu](https://www.academia.edu/124252404/Descriptive_Norms_for_1_082_Chilean_Spanish_Idiomatic_Expressions?nav_from=2bda8401-77ae-4976-b17a-aa12c2533c51).   
    **Data:** not available  
    **Languages of data:** Chilean Spanish   
    **Dimensions annotated:** familiarity, ambiguity, compositionality, transparency.   
