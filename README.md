@@ -16,8 +16,9 @@ Dataset nicknames are used if available.
 <!-- This is a comment, it will not be included -->
 
 ## Reference
-Our paper, *A Survey of Idiom Datasets for Psycholinguistic and Computational Research* (2025) is on [arXiv](https://arxiv.org/abs/2508.11828). 
-To be presented at KONVENS 2025 conference.
+Our paper, *A Survey of Idiom Datasets for Psycholinguistic and Computational Research* (2025) was published in the *Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025)*. It is available on [ACL](https://aclanthology.org/2025.konvens-1.9/)  and on [arXiv](https://arxiv.org/abs/2508.11828).   
+
+This work also was presented at the [KONVENS 2025 conference](https://konvens-2025.hs-hannover.de) on September 11, 2025 (the slides are available in this repository).
 
 ---  
 ## Data sets from psycholinguistics
