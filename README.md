@@ -242,6 +242,12 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English.  
    **Data description:** 2432 different idioms and their descriptions.
 
+- **<code style="color: green;">Nominal Compound Compositionality</code>**   
+   **Article:** Ramish, C., Cordeiro, S., Zilio, L., Idiart, M., Villavicencio, A., Wilkens, R. (2016). How Naked is the Naked Truth? A Multilingual Lexicon of Nominal Compound Compositionality. [Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics](https://aclanthology.org/P16-2026/).  
+   **Data:**  Available from [Carlos Ramisch's personal webpage](https://pageperso.lis-lab.fr/carlos.ramisch/?page=downloads/compounds).  
+   **Languages of data:** English, French, Portuguese.  
+   **Data description:** 180 noun compounds in each languge, with ratings of compositionality.
+
 - **<code style="color: green;">CCT</code>**   
    **Article:** Jiang, Z., Zhang, B., Huang, L., and Ji, H. (2018). Chengyu Cloze Test. [Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications](https://aclanthology.org/W18-0516/).  
    **Data:**  Available from [Github project](https://github.com/bazingagin/chengyu_data).  
