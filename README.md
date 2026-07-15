@@ -20,6 +20,8 @@ Our paper, *A Survey of Idiom Datasets for Psycholinguistic and Computational Re
 
 This work also was presented at the [KONVENS 2025 conference](https://konvens-2025.hs-hannover.de) on September 11, 2025; the slides are available in this repository)
 
+The inventoryis updated even after publication of that paper. Last update - July 2026.
+
 ---  
 ## Data sets from psycholinguistics
 <a name="psycling"></a>Such data sets typically include normed ratings of idioms on various dimemsions. <br>The following list is arranged in chronological order.
@@ -396,5 +398,12 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data:**  Available from [Github project](https://github.com/lishuang-w/IdiomKB).    
    **Languages of data:** English, Chinese and Japanese.    
    **Data description:** A merger of several previous datasets (MAGPIE, IMIL, EPIE, PIE, CCT, PETCI, and more.
+
+- **<code style="color: green;">ID10M-JAM</code>**   
+   **Article:** Golan Hashiloni, K., Livyatan, L., Hefetz, O., Mannor, A., Cohen, B., Bar, K. (2026). ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context. [Findings of the Association for Computational Linguistics: ACL 2026](https://aclanthology.org/2026.findings-acl.1045/).  
+   **Data:**  Available from [Github project](https://github.com/Intellexus-DSI/ID10M-JAM).    
+   **Languages of data:** English, German.    
+   **Data description:** A derivation from ID10M dataset: 178 sentecnes in English, with 534 variations, and 137 in German, 411 variatons. 
+  
 
 
