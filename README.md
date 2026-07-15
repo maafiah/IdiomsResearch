@@ -20,7 +20,7 @@ Our paper, *A Survey of Idiom Datasets for Psycholinguistic and Computational Re
 
 This work also was presented at the [KONVENS 2025 conference](https://konvens-2025.hs-hannover.de) on September 11, 2025; the slides are available in this repository)
 
-The inventoryis updated even after publication of that paper. Last update - July 2026.
+The inventory is updated even after publication of that paper. Last update - July 2026.
 
 ---  
 ## Data sets from psycholinguistics
