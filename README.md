@@ -355,7 +355,7 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Data description:** Automatically created Silver data: in 10 languages: Chinese, Dutch, English, French, German, Italian, Japanese, Polish, Portuguese, Spanish - 20-30K sentences per langauge. Manually-verified Gold data: only English, German, Italian, Spanish - 200 sentences per language.
   
 - **<code style="color: green;">Dodiom</code>**  
-   **Article:** GülŞen Eryiğit, G., Şentaş, A., Monti, J. (2023). Gamified crowdsourcing for idiom corpora construction [Natural Language Engineering 29(4):909-941](https://www.cambridge.org/core/journals/natural-language-engineering/article/gamified-crowdsourcing-for-idiom-corpora-construction/A69DC2EC025689C5495A3859387468A3).       
+   **Article:**  Eryiğit, G., Şentaş, A., Monti, J. (2023). Gamified crowdsourcing for idiom corpora construction [Natural Language Engineering, 29(4):909-941](https://www.cambridge.org/core/journals/natural-language-engineering/article/gamified-crowdsourcing-for-idiom-corpora-construction/A69DC2EC025689C5495A3859387468A3).       
    **Data:**  [Github project](https://github.com/Dodiom/dodiom)  
    **Languages of data:**  Italian, Turkish.  
    **Data description:** .
