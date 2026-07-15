@@ -401,7 +401,7 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
 
 - **<code style="color: green;">ID10M-JAM</code>**   
    **Article:** Golan Hashiloni, K., Livyatan, L., Hefetz, O., Mannor, A., Cohen, B., Bar, K. (2026). ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context. [Findings of the Association for Computational Linguistics: ACL 2026](https://aclanthology.org/2026.findings-acl.1045/).  
-   **Data:**  Available from [Github project](https://github.com/Intellexus-DSI/ID10M-JAM).    
+   **Data:**  Available from [Github project](https://github.com/Intellexus-DSI/ID10M-JAM). [HuggingFace](https://huggingface.co/datasets/Intellexus/ID10M-JAM).   
    **Languages of data:** English, German.    
    **Data description:** A derivation from ID10M dataset: 178 sentecnes in English, with 534 variations, and 137 in German, 411 variatons. 
   
