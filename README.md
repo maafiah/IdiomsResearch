@@ -431,7 +431,14 @@ Linked Idioms Dataset. [LREC-COLING 2024](https://aclanthology.org/2024.lrec-mai
    **Article:** Hashiloni, K.G., Livyatan, L., Hefetz, O., Mannor, A., Cohen, B., Bar, K. (2026). ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context. [Findings of the Association for Computational Linguistics: ACL 2026](https://aclanthology.org/2026.findings-acl.1045/).  
    **Data:**  Available from [Github project](https://github.com/Intellexus-DSI/ID10M-JAM). [HuggingFace](https://huggingface.co/datasets/Intellexus/ID10M-JAM).   
    **Languages of data:** English, German.    
-   **Data description:** A derivation from ID10M dataset: 178 sentecnes in English, with 534 variations, and 137 in German, 411 variatons. 
+   **Data description:** A derivation from ID10M dataset: 178 sentecnes in English, with 534 variations, and 137 in German, 411 variations. 
   
+- **<code style="color: green;">Turkic Idiom Understanding Benchmark</code>**   
+   **Article:** Aslantaş, G., Gungor, T. (2026). A Unified Turkic Idiom Understanding Benchmark: Idiom Detection and Semantic Retrieval Across Five Turkic Languages [SIGTURK 2026 Workshop](https://aclanthology.org/2026.sigturk-1.4/).  
+   **Data:**  Available from [Github project](https://github.com/gozdeaslantas/Turkic_Idiom_Understanding_Benchmark).    
+   **Languages of data:** Turkish, Azerbaijani, Turkmen, Gagauz, and Uzbek.    
+   **Data description:** Token-level idiom span annotations in BIO format. Various amounts per language.
+
+
 
 
