@@ -418,10 +418,10 @@ Linked Idioms Dataset. [LREC-COLING 2024](https://aclanthology.org/2024.lrec-mai
    **Languages of data:** Chinese.  
    **Data description:** "2,937 human-verified examples covering 1,765 common idioms sourced from diverse corpora."
 
-- **<code style="color: green;"></code>**   
-   **Article:** (2025). Improving LLM Abilities in Idiomatic Translation. [Proceedings of the First Workshop on Language Models for Low-Resource Languages](https://aclanthology.org/2025.loreslm-1.13/).  
+- **<code style="color: green;">Idiomatic Translation</code>**   
+   **Article:** Donthi, S., Spencer, M., Patel, O.B., Doh, J.Y., Rodan, E., Zhu, K., O’Brien, S. (2025). Improving LLM Abilities in Idiomatic Translation. [Proceedings of the First Workshop on Language Models for Low-Resource Languages](https://aclanthology.org/2025.loreslm-1.13/).  
    **Data:**  Available from [Github project](https://github.com/mzx05/IdiomaticTranslationResearch).    
-   **Languages of data:** Urdu, Hindi, Chinese, English.  
+   **Languages of data:** Urdu, Hindi, Chinese (and some English).  
    **Data description:** The resource comes in bilingual translation pairs; various amounts for each pair of languages..  
 
 - **<code style="color: green;">ID10M-JAM</code>**   
