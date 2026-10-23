@@ -412,9 +412,20 @@ Linked Idioms Dataset. [LREC-COLING 2024](https://aclanthology.org/2024.lrec-mai
    **Languages of data:** English, Chinese, Korean, Arabic. (German and Turkish sets are not public, due to copyrights).  
    **Data description:** "approximately 10,000 idiom instances per language, each paired with a figurative meaning. Where available, example sentences are also included."
 
+- **<code style="color: green;">ChengyuBench</code>**   
+   **Article:** Fu, Y., Huang, Z., Yang, L., Lu, Y., & Dai, Z. (2025). CHENGYU-BENCH: Benchmarking Large Language Models for Chinese Idiom Understanding and Use. [EMNLP'25](https://aclanthology.org/2025.emnlp-main.119/).  
+   **Data:**  Available from [Github project](https://github.com/sofyc/ChengyuBench).    
+   **Languages of data:** Chinese.  
+   **Data description:** "2,937 human-verified examples covering 1,765 common idioms sourced from diverse corpora."
+
+- **<code style="color: green;"></code>**   
+   **Article:** (2025). Improving LLM Abilities in Idiomatic Translation. [Proceedings of the First Workshop on Language Models for Low-Resource Languages](https://aclanthology.org/2025.loreslm-1.13/).  
+   **Data:**  Available from [Github project](https://github.com/mzx05/IdiomaticTranslationResearch).    
+   **Languages of data:** Urdu, Hindi, Chinese, English.  
+   **Data description:** The resource comes in bilingual translation pairs; various amounts for each pair of languages..  
 
 - **<code style="color: green;">ID10M-JAM</code>**   
-   **Article:** Golan Hashiloni, K., Livyatan, L., Hefetz, O., Mannor, A., Cohen, B., Bar, K. (2026). ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context. [Findings of the Association for Computational Linguistics: ACL 2026](https://aclanthology.org/2026.findings-acl.1045/).  
+   **Article:** Hashiloni, K.G., Livyatan, L., Hefetz, O., Mannor, A., Cohen, B., Bar, K. (2026). ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context. [Findings of the Association for Computational Linguistics: ACL 2026](https://aclanthology.org/2026.findings-acl.1045/).  
    **Data:**  Available from [Github project](https://github.com/Intellexus-DSI/ID10M-JAM). [HuggingFace](https://huggingface.co/datasets/Intellexus/ID10M-JAM).   
    **Languages of data:** English, German.    
    **Data description:** A derivation from ID10M dataset: 178 sentecnes in English, with 534 variations, and 137 in German, 411 variatons. 
