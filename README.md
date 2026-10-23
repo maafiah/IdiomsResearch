@@ -439,6 +439,6 @@ Linked Idioms Dataset. [LREC-COLING 2024](https://aclanthology.org/2024.lrec-mai
    **Languages of data:** Turkish, Azerbaijani, Turkmen, Gagauz, and Uzbek.    
    **Data description:** Token-level idiom span annotations in BIO format. Various amounts per language.
 
-
+<!-- TBD: https://aclanthology.org/2026.findings-acl.24/ -->
 
 
