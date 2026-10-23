@@ -24,10 +24,10 @@ The inventory is updated even after publication of that paper. Last update - Jul
 
 ---  
 ## Data sets from psycholinguistics
-<a name="psycling"></a>Such data sets typically include normed ratings of idioms on various dimemsions. <br>The following list is arranged in chronological order.
+<a name="psycling"></a>Such data sets typically include normed ratings of idioms on various dimensions. <br>The following list is arranged in chronological order.
 
 - **<code style="color: red;">Cronk,Lima,Schweigert_1993</code>**  
-   **Article:** Cronk, B.C., Lima, S.D., Schweigert, W.A. (1993). Idioms in Sentences: Effects of Frequency, Literalness, and Familiarity. [Journal of Psycholingustic Research, 22(1)](https://link.springer.com/article/10.1007/BF01068157)  
+   **Article:** Cronk, B.C., Lima, S.D., Schweigert, W.A. (1993). Idioms in Sentences: Effects of Frequency, Literalness, and Familiarity. [Journal of Psycholinguistic Research, 22(1)](https://link.springer.com/article/10.1007/BF01068157)  
   **Data:** Data is available in the appendix in the paper.     
    **Languages of data:** English  
    **Dimensions annotated:** familiarity, literal plausibility, frequency.   
