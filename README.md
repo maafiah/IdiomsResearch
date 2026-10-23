@@ -399,11 +399,19 @@ Multiword Expressions (MWE 2008)](www.lrec-conf.org/proceedings/lrec2008/worksho
    **Languages of data:** English, Chinese and Japanese.    
    **Data description:** A merger of several previous datasets (MAGPIE, IMIL, EPIE, PIE, CCT, PETCI, and more.
 
+- **<code style="color: green;">CroIdioms</code>**   
+   **Article:** Filipović Petrović, I., López Otal, M., Beliga, S. (2024). Croatian Idioms Integration: Enhancing the LIdioms Multilingual
+Linked Idioms Dataset. [LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.366/).  
+   **Data:**  Available from [Github project](https://github.com/CroIdioms/CroIdioms).    
+   **Languages of data:** Croatian.  
+   **Data description:** "1,042 Croatian idioms in an Ontolex Lemon format"
+
 - **<code style="color: green;">MIDAS</code>**   
    **Article:** Kim,J., Shin,Y., Hwang,U., Choi,J., Xuan,R., Kim,T. (2025). Memorization or Reasoning? Exploring the Idiom Understanding of LLMs. [EMNLP'25](https://aclanthology.org/2025.emnlp-main.1099/).  
    **Data:**  Available from [Github project](https://github.com/HYU-NLP/MIDAS).    
    **Languages of data:** English, Chinese, Korean, Arabic. (German and Turkish sets are not public, due to copyrights).  
    **Data description:** "approximately 10,000 idiom instances per language, each paired with a figurative meaning. Where available, example sentences are also included."
+
 
 - **<code style="color: green;">ID10M-JAM</code>**   
    **Article:** Golan Hashiloni, K., Livyatan, L., Hefetz, O., Mannor, A., Cohen, B., Bar, K. (2026). ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context. [Findings of the Association for Computational Linguistics: ACL 2026](https://aclanthology.org/2026.findings-acl.1045/).  
