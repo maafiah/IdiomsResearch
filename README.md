@@ -8,7 +8,7 @@ This inventory is intended for promoting research on idiomatic expressions.
 For: linguistics, psycholinguistics, computational linguistics, education.
 
 There are datasets in various languages.  
-The listing is split into two parts: datasets from psycholinguistics and datasets from computational lingustics.  
+The listing is split into two parts: datasets from psycholinguistics and datasets from computational linguistics.  
 Dataset nicknames are used if available.
 
 [Psycholinguistics data](#psycling)  |  [Computational linguistics data](#compling)
