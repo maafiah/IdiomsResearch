@@ -3,7 +3,7 @@
 ## Overview
 
 
-A listing of idioms datasets, with links to data and to the original research papers.  
+We present a listing of idioms datasets, with links to data and to the original research papers.  
 This inventory is intended for promoting research on idiomatic expressions.  
 For: linguistics, psycholinguistics, computational linguistics, education.
 
